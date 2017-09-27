@@ -1,0 +1,94 @@
+@charset "utf-8";
+@import url("../webfonts/berkeleyOldstyleBook/stylesheet.css");
+@import url("../webfonts/futuraLT/stylesheet.css");
+
+
+/* CSS Document */
+
+
+#wrapper {
+	width: 980px;
+	margin: auto;
+}
+#navigation {
+	background-color: #49a2cf;
+	width: 980px;
+	font-family: berkeleyOldstyleBook;
+}
+
+#header {
+	background-color: #2387ba;
+	width: 980px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.menu {
+	color: #FFF;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFF;
+	padding-right: 8px;
+	margin-right: 4px;
+	font-size: 24px;
+	font-family: berkeleyOldstyleBook;
+}
+.menuEnd {
+	color: #FFF;
+	font-size: 24px;
+	font-family: berkeleyOldstyleBook;
+}
+a:link {
+	color: #FFF;
+	text-decoration: none;
+}
+a.downloadlink {
+	color: #F00;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FFF;
+	text-decoration: none;
+}
+#main {
+	width: 818px;
+	padding-right: 80px;
+sd
+	border-right-width: 2px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #979797;
+	border-left-color: #979797;
+	padding-left: 80px;
+	border-right-width: 1px;
+	padding-top: 23px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+a:hover {
+	color: #06F;
+	text-decoration: none;
+}
+h1 {
+	font-family: futuraLT;
+	font-size: 24px;
+	color: #2387ba;
+	font-weight: normal;
+	line-height: 1px;
+}
+#footer {
+	background-color: #2387ba;
+	width: 980px;
+	height: 60px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	text-align: center;
+	font-size: 12px;
+}
+textarea{
+font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace !important;
+}

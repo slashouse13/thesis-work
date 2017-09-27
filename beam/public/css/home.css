@@ -1,0 +1,154 @@
+/*contenitore delle mia home*/
+.menu {
+    color: #FFF;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: #FFF;
+    padding-right: 8px;
+    margin-right: 4px;
+    font-size: 24px;
+    font-family: berkeleyOldstyleBook;
+}
+a:link {
+    color: #FFF;
+    text-decoration: none;
+}
+a.upload:link {
+    color: #AAA;
+    text-decoration: none;
+}
+a.upload:visited {
+	color: #AAA;
+	text-decotation: none;
+}
+/*stile dei pulsanti*/
+.button {
+	height: auto; 
+	width: auto; 
+	display: block;
+	background-color: #2387ba; 
+	color: #fff; 
+	text-decoration: none; 
+	padding: 2%; 
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:2%;
+	line-height: 25px; 
+	text-align: center; 
+	font-weight: bold; 
+	font-variant: small-caps; 
+	font-size: 25px; 
+	border-radius: 20px; 
+	-webkit-border-radius: 15px; 
+	-moz-border-radius: 15px; 
+	box-shadow: 1px 1px 1px white, -1px -1px 1px black, 3px 3px 1px #C4C4C4,3px -3px 1px rgba(136, 136, 136, 0.7), -3px 3px 1px #BBB, -3px -3px 1px #888, 0px 0px 15px black;
+	-webkit-box-shadow: 1px 1px 1px white, -1px -1px 1px black, 3px 3px 1px #C4C4C4,3px -3px 1px rgba(136, 136, 136, 0.7), -3px 3px 1px #BBB, -3px -3px 1px #888, 0px 0px 15px black;
+	-moz-box-shadow: 1px 1px 1px white, -1px -1px 1px black, 3px 3px 1px #C4C4C4,3px -3px 1px rgba(136, 136, 136, 0.7), -3px 3px 1px #BBB, -3px -3px 1px #888, 0px 0px 15px black;
+}
+
+ 
+/* Classe per lo stato "puntato" del pulsante */
+.button:hover{
+	background: rgb(173, 234, 237);
+}
+
+p.text{
+	text-align: center;
+	padding:1%;
+}
+
+p.options{
+	padding-left:2%;
+	font-weight: bold; 
+	font-size: 24px;
+	margin-top: 2%;
+}
+
+/*stile per la text area*/
+.text_area {
+	display: block;
+	float:left;
+	width: 45%;
+	height: 190;
+	font-size: 17px;
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+	resize: none;
+	margin-left:1%;
+	border-radius:20px;
+	border: solid 2px;
+	border-color:#2387ba;
+}
+.opt{
+	padding:2%;
+	width:100%;
+	font-size:18px;
+}
+
+td{
+	width:20%;
+}
+div.options{
+	border: solid 2px;
+	border-color:#2387ba;
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	text-align: justify;
+	border-radius:20px;
+	width:550;
+	height: auto;
+    	margin-top:180;
+}
+.advanced{
+	font-weight:bold;
+	font-size:20px;
+	padding-top:3%;
+}
+.adv{
+	display:block;
+	float:left;
+	width:50%;
+}
+.container{
+	width:100%;
+}
+select{
+	width:90px;
+	text-align:center;
+	
+}
+.numoption{
+	float:right;
+	margin-right: 15%;
+}
+input[type="number"]{
+	width:90px;
+	text-align:center;
+}
+div.upload{
+	display:block;
+	float:left;
+	width:50%;
+	height: 190;
+	border: solid 2px;
+	border-color:#2387ba;
+	margin-left:4;
+	border-radius:20px;
+}
+
+input[type="file"]{
+	width:100%;
+	text-align:center;
+}
+
+.up_bk{
+	padding:2%;
+	width:110%;
+}
+
+fieldset { 
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-style: dotted;
+}

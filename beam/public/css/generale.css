@@ -1,0 +1,77 @@
+/*foglio di stile generale*/
+
+body {
+	font-size: 20px;
+	color:#2387ba;
+	font-family:berkeleyOldstyleBook;
+	background-size:cover;
+	background-attachment: fixed;/*per mantenere lo sfondo fisso */
+	background-position:0 0px;
+}
+#footer {
+	background-color: #2387ba;
+	width: 90%;
+	height: 60px;
+	font-family: berkeleyOldstyleBook;
+	color: #FFF;
+	text-align: center;
+	font-size: 12px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#pic_footer{
+	width:	3%;
+	height: 80%;
+	margin: 5px;
+	float:left;
+	vertical-align:central;
+	padding-left:5px;
+	padding-top:2px;
+}
+#header {
+	font-family: berkeleyOldstyleBook;
+	background-color: #2387ba;
+	width: 90%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-left: 5%;
+}
+img.imghead{
+	width:50%;
+	display: center;
+	height: 15%;
+}
+#navigation {
+	background-color: #49a2cf;
+	width:	90%;
+	font-family: berkeleyOldstyleBook;
+	margin-left: 5%;
+}
+.menu {
+	color: #FFF;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: #FFF;
+    padding-right: 8px;
+    margin-right: 4px;
+    font-size: 24px;
+    font-family: berkeleyOldstyleBook;
+}
+.menuLast {
+	color: #FFF;
+    padding-right: 8px;
+    margin-right: 4px;
+    font-size: 24px;
+    font-family: berkeleyOldstyleBook;
+}
+a:link {
+    text-decoration: none;
+}
+fieldset { 
+	display: block;
+	margin-left: 5%;
+	margin-right: 5%;
+	border-style: dotted;
+	height:auto;
+}
+

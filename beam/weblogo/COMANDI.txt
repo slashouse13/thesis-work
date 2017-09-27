@@ -1,0 +1,1 @@
+./weblogo -a 'ZAQXSWCDEVFRBGTNHY' -f ./../out/webLogo.fa -D fasta -o ../logo/out.eps -C red ZAQ 'Stem' -C blue XSW 'Loop' -C forestgreen CDE 'InternalLoop' -C orange VFR 'StemBranch' -C DarkOrange B 'Bulge' -C lime G 'BulgeBranch' -C purple T 'Branching' -C limegreen NHY 'InternalLoopBranch'

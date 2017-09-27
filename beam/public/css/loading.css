@@ -1,0 +1,17 @@
+p.text{
+    text-align: center;
+}
+p{
+	font-size:12px;
+	font-color: #fff;
+}
+#footer{
+	position:fixed;
+	bottom:0px;
+}
+fieldset{
+	height:70%;
+}
+#countdown{
+	display:inline;
+}

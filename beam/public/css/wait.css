@@ -1,0 +1,10 @@
+p.text{
+    text-align: center;
+}
+#footer{
+	position:fixed;
+	bottom:0px;
+}
+fieldset{
+	height:70%;
+}

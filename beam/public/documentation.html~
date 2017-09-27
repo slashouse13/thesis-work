@@ -1,0 +1,94 @@
+<html><title>Doc - Beam Web Server</title>
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'> <!-- quale font usare -->
+<link rel="stylesheet" type="text/css" href="css/documentation.css">
+<link rel="stylesheet" type="text/css" href="css/generale.css">
+<header>
+<div id="header" align="center">
+<img src="images/beam.png" alt="logo" name="logo" class="imghead"/></div>
+<div id="navigation" align="center"><a class="menu" href="/" target="_self">Home</a> <a class="menu" href="/documentation" target="_self">Documentation</a><a class="menu" href="/contacts" target="_self">Contacts</a><a class="menu" href="/download" target="_self">Downloads</a> </div>
+</header>
+<body>
+	<a name="index"></a>
+	<fieldset>
+		<article>
+
+			<section class="sec1"><a name="whatis"><h2>What is Beam?</h2></a><a class="back" href="#index">Back to the top</a>
+				<p>Beam description</p>
+			</section>
+			<section><a name="howit"><h2>How it works?</h2></a><a class="back" href="#index">Back to the top</a>
+				<p>Beam description</p></section>
+			<section><a name="fileformat"><h2>File formats</h2></a><a class="back" href="#index">Back to the top</a>
+				The input sequences are accepted in FASTA format:<br/>
+				-The line containing the name and/or the description of the sequence starts with a ">";<br/>
+				-The words following the ">" are interpreted as the RNA id;<br/>
+				-The following line reports the RNA nucleotide sequence;<br>
+				-The subsequent line characters are interpreted as secondary structure information (Optional)<br/>
+				<br/>
+
+				The IUPAC notation is accepted for nucleotides (case-insensitive).<br/>
+				<br/>
+
+				Example of a well formatted input file:
+				<pre>
+>X06054.1/711637
+GGGCCCGUCGUCUAGCCUGGUUAGGACGCUGCCCUGACGCGGCAGAAAUCCUGGGUUCAAGUCCCAGCGGGCCCA
+				</pre>
+				In this case the secondary strucure for the sequence will be computed on the fly.<br/>
+
+				The input may contain many sequences e.g. :<br/>
+				<pre>
+>SeqCat03|0
+AAAAGCGCGCCUCAAAGUAUAUGGAAGAGUAAGCCUUCCAUCCGCCUACUAGUUAGAGUGACUAAAGCCGACCGAC
+>SeqCat03|1
+GAGAUCGUAUGGAAGAGUAAGCCUUCCAUUUCAAUCUUCUCGCUGUCUAUAGUUAAGCUCCGCGUCGCGCUAGGCA
+>SeqCat01|5
+ACUCGACGUUAGUUCUACCAGCGCCGUACGGUGUCCAGGGGGUAGGAAAAGCGGGACGUACUUCAUAGGAUCAUUU
+>SeqCat03|6
+UCUGAAGGCCGCACAUCAAUGCACAUGGAAGAGUAAGCCUUCCAUUGCGGGUGCCGUACGCAUGUGACAUGCCUGC
+				</pre>
+				</section>
+			<section><a name="howto"><h2>How to use it</h2></a><a class="back" href="#index">Back to the top</a>
+				<b>Min window width:</b><br>
+				Minimum number of nucleotides considered for the motif discovery;<br><br>
+				<b>Max window width:</b><br>
+				Maximum number of nucleotides considered for the motif discovery;<br><br>
+				<b>#motif:</b><br>
+				Number of motifs given in output;<br><br>
+				<b>Fold:</b><br>
+				Type of secondary structure prediction method. BEAM offers two kinds of prediction methods: <ul><li>Minimum Free Energy pretiction methods using RNAfold (Vienna Package)</li> or <li>Maximum expected accuracy structure prediction (MaxExpect in RNAstructure Package);</li></ul><br>
+				<b>Clean:</b><br>
+				Degree of sequence score restriction;<br><br>
+			</section>
+
+			<section><div style="text-align:left"><a name="output"><h2>Output</h2></a><a class="back" href="#index">Back to the top</a></div>
+			<div style="clear:both">The results page reports a table containing all the motifs found. The table will be a n x 5, where n is the number of the desired motifs. The 5 columns will report: the number of the motif, weblogo picture, statistic values (such as P-value, Covariance and the BEAM score), Histogram of starting motif position, where in the X-axis will represent the position in the RNA sequences, finally, there will be the structure picture (if the motif can be interpreted).
+<br><img id="example1" src="images/results.png"><br>
+
+<br>It is available the download of the raw results of BEAM execution. The results are in a .tar.gz archive format, inside there will be a readme file to help you to read them.
+<br><img src="images/download_arch.png" id="example2"><br>
+
+Each image in the table can be zoomed in by clicking on it, as showed in the example below:
+<br><img id="example3" src="images/big.png"><br><br>
+It is possible to expand the motif result, by clicking on the plus on the first column.
+A list of all the sequences motif (in Bear alphabet format) and a graphic illustration of the motif position related to the sequence length, will be shown as displayed in the picture below:
+<br><img id="example4" src="images/list.png"><br>
+
+</div>
+			</section>
+		</article>
+		<aside>
+			<h1>Index</h1>
+			<ul>
+				<li><a href="#whatis">What is Beam?</a></li>
+				<li><a href="#howit">How it works?</a></li>
+				<li><a href="#fileformat">File formats</a></li>
+				<li><a href="#howto">How to use it</a></li>
+				<li><a href="#output">Output</a></li>
+			</ul>
+		</aside>
+	</fieldset>
+</body>
+	<footer>
+	<div id="footer"><img style="float:left; vertical-align:central; padding-left:5px; padding-top:2px" src="images/logoTorVergat.png" width="42" height="55" alt="logoTV" /><div style="padding-top:20px;"> © 2016, Centre for Molecular Bioinformatics, University of Rome "Tor Vergata".</div></div>
+	</footer>
+</html>
