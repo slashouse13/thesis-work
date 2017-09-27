@@ -1,0 +1,600 @@
+>SeqCat01|0
+GCCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUCUGUCAGUUGUGGUAGUCGUCAACUCUCAGUUUCAUGCGGUAUUACGAUCUGUGAUUGGUUAUAGAUGAGAGCCUUUCACUAACCUAUCUCGCGAACUCUAUUAUGCAUUCCCAAGCUAGUCAUGCUACAUGGCUACAUUAUGG
+...(((((.((.(((((((....)))))).).)))))))..(((..(((((((.....)).)))))..)))....(((((.........((((.(((.(((..(((.(((((...))))))))))).))).)).)).........)))))..(((...((((((((...)))))))).....))) (-39.50)
+>SeqCat01|1
+GAGAACUCUCUUAAGGCAGUACAGUAAUAAAGCUCUAAUUUUUACAGCGUCUAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGUUGAUUGGUUAUAGAUGAGAGCCUUUCAAAGUUGGACGCCCAGCUCCGACGAGGGGUCGCACGUGGUAACACCAUUUUAGCCCCUAGCUCUUA
+(((....))).(((((((((((.((......(((.(((...))).))).......)))))))..((((((....))))))......((((((((((..((((.........))))..))))((((((....))))))))))))((((((.....(((((...)))))....)))))).)).)))) (-49.20)
+>SeqCat01|2
+CAUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUCACAGUCGAGCUAUCCGGUAGGCCCCGGCUGGCCUAUAUUAGGGAUUGCUCUGAUUGGUUAUAGAUGAGAGCCUUUCAUCCCCCUGCUAUCACAGCACGCGGGCUAUCUUAACUAGUGUGUGGAGACUGUUGUUUGAUCUGGU
+....(((((.((.(((((((....)))))).).)))))))....(((((((((......(((((((......)))))))....(((((.(((((.(((.......))).))))).....))))).........(((((.((((.((((.......)))).))))..).)))).)))))).))).. (-55.20)
+>SeqCat02|3
+UGGCGUGAAGCGCACGGCUGGAUGCUCUAACCAGGGUAGUGAAACCUUCUCCGGGGACGUAUGCAAGAUCCUCGCGGGUAGCGGAACAGCGGACGAGCAGGGCGAUGCUGCGAGUAGCGUGGUGAUUGGGAUGAUUACGUCUGACGCUGG
+.(((((..(((.....)))..)))))....((((.((.((....(((.((((((((((........).)))))).))).)).)..))..((((((((((...((((((((((.....)))))).))))...)).)).)))))))).)))) (-44.50)
+>SeqCat02|4
+UCAGUAUGCCAAGUAGUUAUCGCGAUUAACAGGCCUUUGGGACCGUGAACGUUACCUCGUGGGGGGCAACGUGUUCCAAGCUCUUAUUCGGGCAUGGAGCCCCGCACUCAUUUAAGAAGAUUGUCUGUACUGUCUCCUCGCUUUCGCGCU
+....................(((((.....((((....(((((.(((...........(((.(((((..(((((((.((.......)).)))))))..))))).))).......(((......))).))).)))))...))))))))).. (-39.90)
+>SeqCat02|5
+GGAUCUUACAGCAGAUCCGACUCUGUCGUUAACGCGAGUAGGAGCAGCCAUGUAUUUUGUCGCAUGGAGUGAAAUUUACCAAUCUCGUAAACAAUUAGCUCGUGUUCGACCUUCCAUAAUUGAUGGCCUGUUCCGAUACCAAAUACAUAG
+((((((......)))))).(((((((.....))).)))).(((((((((((..(((..((((((((.(((....(((((.......)))))......)))))))..)))).......)))..)))).)))))))................ (-35.30)
+>SeqCat01|6
+UUUGUCUGUUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCAAAUGGGGAGCGGUUGUGUUGGCGAUCAGCGCUCUACAUUAGAGUUGAUUGGUUAUAGAUGAGAGCCUUUCAUCCCCGAGCAUCACAGUUAUUUCUGAGGACAAGCACGGUUAUUUGGCAUCUAACGCCGAGGUCGG
+(((((((.((((((((.((.(((((((....)))))).).))))))))))..(((((((((((((....)))))).))((((((...))))))(((..((((.........))))..))))))))........(((......))).)))))))..(((...((((((.......)))))).))). (-55.10)
+>SeqCat01|7
+UCAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGCGCUUGCGUAAUAAUUUAAGUAAGACUGUGCUCCCAUACAGGUACUAGCUCUGAUUGGUUAUAGAUGAGAGCCUUUCAAAAGAGGCACUGAGUCCUCCUAUACUAGGGGCAGGUAGCCUGAACCCAGUUUCCUGAGUCAAGUU
+(((((((((.((.(((((((....)))))).).)))))))....(((((.(((....))).))))).(((((...(((..(((((....)).)))..))).)))))))))..((((((....))))))(((((.((.......(((.((..((((...))))..)).))).....)).)).))). (-45.90)
+>SeqCat01|8
+ACUAUCGAUAUAUUCAGAACAACUGCGUAUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAGCCGGAGUUAUGUUACGCGCCGGUUUGAUUGGUUAUAGAUGAGAGCCUUUCAUUGUGAAUGGCUGGUGUAUAUUGAGUAUGCUAUUUUUUGCAUUAAUUGCAAGGAUCGUCUCAACC
+......(((((...(((.....))).)))))(((((.((.(((((((....)))))).).)))))))((((((.((........)).)))))).....((((..((((((.((((.((((...)))).))))(((((((.....)))))))..((((((((.....)))))))))))))).)))) (-50.50)
+>SeqCat02|9
+GGGACGCGCCUAACACGAUGAACUGGAAUAGCUCUGUAUGGGGGAACUACCCCGCCAGCCUACGAUUUGGGAAGGACAUCGUCCAGGCACCAUUGUCUCGUCAUAGAUUCGGUGAUAUGCGUGUGGGCCAUGCCUGCGCUUCCAGCAGUC
+((......))......(((...((((((.....(((..(((((......))))).)))((((.....))))..((((...))))..(((.(((((..((......))..)))))...)))((((((((...))))))))))))))..))) (-45.50)
+>SeqCat01|10
+AGUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGUUACCCUACUUGAUGUGGCUGGUCUGCUCAAAGGUGUCUAAUAUGACCAUCGUGAUUGGUUAUAGAUGAGAGCCUUUCAACAUAGCAGGUAAAGGUCGUAGGUUUUACAAGUUUUCUAUAGCUUCUAUGUCCUACCAGGGGGUU
+...((((((.((.(((((((....)))))).).))))))))..((((..((((....((((..((((((.((((((.((...((((((((.......))))))))...))..))))))......))))))....))))(((((...((.(((((......))))).))...))))))))))))). (-52.80)
+>SeqCat01|11
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUACAAUGUGUCGCUAAACGACAUUAAGUUCCGGCCUUACUGGUAGUGUAGACUAGGUGAUUGGUUAUAGAUGAGAGCCUUUCAGUGUCUUUCGUCUGCGCAUCCUCGUCGACAUGGAAUACGAGGUGGGCCUGCGGGAGAAAUAGUAG
+(((((.((.(((((((....)))))).).)))))))((((...((((((.....))))))....(((((((((..((.(((((((.(((.(((......((..((((((((((.(.......).)))))))))).))..))).))).))))....))).))..)))))...))))......)))) (-54.10)
+>SeqCat02|12
+UGGUCUAACCGGCCCGAUGUUUAAUUGUUUGAGCUUAUGUCGAGUCGCUCACAAGCUUUCCUCUGGGUUAGCACAGAGGACGGGUUUCCCCGCAUCGCACUCGAAAGAGACAUUUGGCGGAUCUAUGACGGGGCCUUGGCCUGCGGGGGU
+.(((...)))((((((..............(((((..(((.(((...)))))))))))(((((((........)))))))))))))((((((((.....(((....)))......(((.(((((......)))..)).))))))))))). (-47.10)
+>SeqCat01|13
+CCCGUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUAUAGCGGACUAUCCAUGGGGUCCGCCUUAUCACAUCCCGUUAACCCUAAUGAUUGGUUAUAGAUGAGAGCCUUUCAGAACACCCCCGAACGCGCUGUCGUGCCCAGGUACACCGUGAUAUUCCGACAAGACCAAACUCCCU
+...((((((((.((.(((((((....)))))).).))))))).....(((((((........)))))))..((((((....(..(((((.........)))))..)..((.((((.(((.(.......).))).).))).))((((....))))...))))))....)))............... (-44.10)
+>SeqCat02|14
+AACUAGAUUCAAGUGUGUUAGGCGCCUACCCGCGCAGAUUAGACGUGCGGCCCAAAUCUAUGGGGAUCAGCCGUUGUGAGUCAUACACCUAUAAGCAAGUUAGCCGGUUAACUGAAGGUGCUAUCAGAAGACUUUCCUUUCCUAUAAUAA
+..........((((.(....(((((((..((((((.........))))))((((......))))(((..((....))..)))...............(((((......)))))..)))))))......).))))................ (-29.90)
+>SeqCat02|15
+GUGUUCGAUGUCCAACAUGGAAGGGGAAAGUGUUGAGUUAGUUAUAUCGGCCAAGAUGAGCUAUUUCGCUCUUUUUAUCCUGGCGAGCGAACGAUAGACUUUUUCGGGGUGCGGGAUGCAGGUUCCUGAGCGUCGUCCUUUAAGUCUCUU
+.((((((....(((..((((((((((.......((((.(((((.((((......))))))))).))))))))))))))..)))....))))))..((((((...(((.((.(((((.......))))).)).)))......))))))... (-42.70)
+>SeqCat01|16
+UAUGUACGCGCCCCUCUAGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGCUGUGACAGCUAGUUUCAGACCAACAUCUUUAUUCUAUGAUUGGUUAUAGAUGAGAGCCUUUCAGCACACAAGGCGUACAAUAGAAUGUUCCCUAAAACGGACGGCUUGCUUUCGCUACCGCACUGGUC
+..(((((((..........(((((.((.(((((((....)))))).).)))))))((((.((..(((.((((..(((((((((.........))).))))))..))))...))).)).)))).......)))))))...........((.....(((..(((........))).)))....)).. (-41.10)
+>SeqCat01|17
+AUCACCCAACGUAAGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCUUUUAAAUUCCAAAUCUUUCAAAGACCAGCAUAUGUGUCGUGAUUGGUUAUAGAUGAGAGCCUUUCACGGGGUCUCCUCAGGACAGAAGAUGGUUGAUAAACGCCCAAAAUGCAAUAAUCUCAGGGCACCUU
+((((.(((......((((((.((.(((((((....)))))).).))))))))(((((....(((.((((..(((..(((((.....)).))).)))..))))...((.((((.(((.....))).)))).)).))).))))).))).))))....((((.................))))..... (-44.90)
+>SeqCat01|18
+GGCGGCGGAUUUAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUCGCAUACCGCCAGGCCUUGGGGAAGGGUCACAUAUUUGCUGUUGAUUGGUUAUAGAUGAGAGCCUUUCACGAACUCCAAUACCUUAUUUCGCACUAGAGCCUCUAGCGGGAGGAGCGGGGGAGGGCUAUAGCAG
+((((((((((....(((((.((.(((((((....)))))).).)))))))....)).)))))..)))....((((((.((.(((....((((.....)))).....))).)).))))))..(..((((....(((..((((.(.(((((...))))).).))))...)))))))..)........ (-54.90)
+>SeqCat02|19
+UGUCUGCUGGGCUAAAAUGCUGUAAGCUGCUCGGCAGGCAACGGAGGCCAAGUUCCUUUUGCAGCACACUCCUCUUUCAUAAGGUGUAAGCAGGGUGCCGCAUCCGCCGCUCCUUAGCGUUGGGUGCCAGUAAGACGCAAGAAUAAUCAC
+((((((((((((................))))))))))))..((((......))))((((((.((((...((((((.(((...))).))).))))))).(((((((.((((....)))).))))))).........))))))........ (-50.90)
+>SeqCat01|20
+CAUAACGGGACGGUUUUUUACGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGAGGUAGUUCCGGAAAUCCGCUUAUCGCAAGCGACGUGAUUGGUUAUAGAUGAGAGCCUUUCAUCGAAACGGUCGAUGGCCGGAUGCACAUAACAAGUAGACCACGGCAUUUUUGCGCUUCGGUGAUA
+.....((((((.....(((.((((((.((.(((((((....)))))).).)))))))))))..)))))).........((((((.(((((.((((((((......(((((((...)))))))....))))).)))((((..(((.........))).....)))).......))))))))))).. (-48.50)
+>SeqCat02|21
+GACCCGGACGCCUUAUUGGCAGUAGUAAGCGUAGAAGUCCGCGAAUGGUGCGUCCCUUCACCACGACAAACAGCUCCUACUCGCCGCCGGGACUAUAAUCUGUCGAGUAACGCAUAAACUACCUUAUAAGGUUUAUUACAAAUGUUUCAA
+..(((((.........(((((((((..(((......(((.(.(((.((.....)).))).)...))).....))).))))).)))))))))...............(((....(((((((.........))))))))))........... (-29.50)
+>SeqCat02|22
+GAUCUCCCCGCGAUGGUGUAACCAGUCGCAUCUACAAUAUAAACCGUAUCGGCAACCCAAGGCAGUGUUCCGUAGGUAGGAUACUGUUUUAUGCUUGUAGACGUCGUCCAGACUAAUAGUCGUUGCCCGCAACGCCAGGUACGUUCCCAC
+.........((((((((...)))).))))...............(((((((((.....((((((((((((........)))))))))))).(((..(((((((((.....))).....)))..)))..)))..))).))))))....... (-37.00)
+>SeqCat02|23
+GAGGGGUUCGGACUGCGCCUGUAAAGUACGCGUCUAGUGCCUAAUGAUUACCGCUGCUGCUUCCCCUUGAGAUCGCGAGUGGUCUGGACAAAGCGGGGAGUGGGUUCAGCCUGGUAGCCGACAGAUGUACAAACAAAUUCCAGUACGCGA
+...((((.(((((.(((.((....))..))))))).).))))...(.(((((((((((((((((((((.(((((......))))).)....)).)))))))))...))))..))))).).......((((............)))).... (-40.50)
+>SeqCat02|24
+UUUAGCUACACACACUGCGCAUUGACAAACUUUAAAACGUGUGGGCUGCGUCGGCAUACAUUACGGGAUUGGACCCAAUACCCCCACAAGGCUAUUAAAUACGGAAGGAUUUAACGUUUUCUGUCGAUAGAACCUGCGAUCCGGACAAUU
+..(((((.......(((((((((.(((............))).)).)))).)))..........(((((((....)))).)))......))))).......(((((((.((((.((........)).)))).)))....))))....... (-28.00)
+>SeqCat02|25
+CUAUCGCUCAAGGCAAUGAUGUACCAACCUUUUGCUAAUACUCCUUAUCGAACUAAACUACCUGCUAAAAGGCAACCUUCUGUAUCUACGUCAAUUACACACUUUUUAGCCACAAGUGCACGAUGCUUACAUGCUGGCAGACGGCAAAGU
+.....((..((((...((......)).))))..))..........(((((......(((....(((((((((........((((...........))))..)))))))))....)))...)))))......(((((.....))))).... (-21.90)
+>SeqCat02|26
+CCCUAAUUACCGACCGAGGCUACCCCACAGAAGUACGACCGACGCUAUCGCAUCGGCAAACCACUAACGUCGGUGGAUUUGUGUCGUAACCUCGCCCAACCAGAUAGGAACGGAAAUCUCUACACCGGAGUGGUAAGGGGUGCAACUAAC
+((((..((((((..(((((.(((..((((((.......((((.((....)).))))....(((((......))))).))))))..))).)))))((...((.....))...))....((((.....)))))))))))))).......... (-39.60)
+>SeqCat02|27
+GACAGCAGCAAUACUCGAUCACAUUCUGUUUGAUUGAGCCCUGAACACUUUCGAGGUUAAAUAGCGUCGGUAGCCUCCGGUUGCGUAGUGCGAGCAUACCCAAGGGGCUAAUGGUCACCAGAGCGUAGCAAAUCGACCUGCCGCUGAGGU
+..((((.(((...((((((((.........))))))))............((((.(((....))).))))(((((((.((((((.........))).)))...)))))))..((((......((...)).....))))))).)))).... (-42.30)
+>SeqCat01|28
+AUGUAUGAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGCAGACAUGAAAAGGACGACUGUUACAGGCAAUUCUAUCAACGGGAUUGAUUGGUUAUAGAUGAGAGCCUUUCAAACCAUCAUGCGACGAGGACUUUAAGGACCUCGGUGUUCUUAUCCCCACCACAUAUCCUCCUAUU
+((((.((..(((((.((.(((((((....)))))).).)))))))..)).))))....((((.((..........(((((((......)))))))..((((....(((((((((...................(((((.((....)).)))))..)))))))))...))))....)).))))... (-43.00)
+>SeqCat02|29
+CUCACACACCGGACGUGUACUGGAUUUGACGUUGCACAGUGCCAAAAAUAAGGGUAUAAUAUUGUUUGUCUAUUAAAGAGCGCAAAGGAGACGAACACCUGGAGACUGUAAAUAGGCCACAAGACCUCGAGGGCCAGACAUGUCGUAGCA
+...........(((((((.((((...............(((((.........))))).....(((((((((.................)))))))))(((.(((.((..............))..))).))).)))))))))))...... (-34.20)
+>SeqCat02|30
+CGAAGACUAAACGGCCAAAGAAAUAAUCGAAUGUGGGCUUCCAAUAUCGGAUACAAUCUCUCAACAAAAGUCGUCGGCCAGUUAUCCUGGGGGUUUAUGAUUCUAGUCGAUACCCUCGCGCGAAAACUCCCCUGGACCGUCGAAGCAGAA
+..................(((....(((..((((((....)).))))..)))....)))...........(((.(((((((.......((((((((.....((..(.(((.....))))..)))))))))))))).))).)))....... (-29.10)
+>SeqCat02|31
+CCGUCAAUUGAGACGGCCAUGCACGGAUCACCAGACCCGUCAGGGUUUGCUGUUUUGCGUCCAGACAGGCUCGGGCGCAGAGUGAACGAAAUCAGUAUAGCUUAGGCUAUCACACGCGUAUUGAUAUAGCUGGUUUCGUCCCCCCUGUGU
+(((((......)))))....((((((..((.(((((((....))))))).))((((((((((((.....)).))))))))))...((((((((((((((...((.((........)).))....))).))))))))))).....)))))) (-55.20)
+>SeqCat02|32
+AACAGGUUGGCGGCGAGCAUGACUAUCUUACAACACCUCGCUGCUGUUGCGAUAAUCUCUUAGUGCCGCGAUUUCGCACACUGGCUGCGCCCAGGCAGACGCAAAGAGACUUAGGGACCCGGAUAACCUCUUUGGUAAGAUCCAUUUCCC
+........(((((((((...................))))))))).(((((........((((((..(((....))).))))))((((......)))).))))).........((((...((((.(((.....)))...))))...)))) (-42.20)
+>SeqCat01|33
+UCCCAGCUCCGAUGGACAACUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUCGUAUUGAACAGCACCAGUUGACAAGCAGGUGAUCUGAUUGGUUAUAGAUGAGAGCCUUUCAUCUGUCUUAGACAGCCCUCGAAACCAAUCAGGAACGUACCCGUUUAUAUCGCCCUCAUCUUGUUA
+...(((((....((..(((..(((((.((.(((((((....)))))).).))))))).....)))..)).....)))))(((((..((((((((((((((((((((((((((...))))))))))................))))))))))(((((....)))))..)))))).....))))).. (-48.10)
+>SeqCat01|34
+GUUCGCGCCCCGGAUCCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGUUCUUCCGAGGUCACUUAGCCGUUCGUCCCUGACCAUCCUGAUUGGUUAUAGAUGAGAGCCUUUCACCUGCUCUCGAGAGACAUGUUGCUGCUGUUACAACCAUCGUACCCCGUCCUGAAUGCUAUCCAUC
+......(((.((((..((((((.((.(((((((....)))))).).))))))))....)))).)))....((((.(((((((..((((((.......))))))..)))((((((.........))))))..((....(((.((....)).)))....))............))))))))...... (-46.20)
+>SeqCat01|35
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGUAGGCCCGACUCAAGCACAUCGGCUGGAGUACUAUCGGUCUUUUGUGUUGCUGCCUUGAUUGGUUAUAGAUGAGAGCCUUUCAGUUUCCUAAGACAUAGCUUCCGUUAUUGUUGGAUGACGGUACAACUACUACGGCCCACAGAGGGU
+(((((.((.(((((((....)))))).).)))))))((.((((..((((.(((......))).))))......((.(((((((.(....(((......)))...).))))))))).....((((....)))).......((((((((....))))))))............)))).))....... (-48.00)
+>SeqCat02|36
+UGGCGGGGACUUUCCGGCAACGGUGCCAUCGUCAUCGACUUAGGAAAGAGCACUAUUGUAACCAGAAACCAAGUCAGAGUAAUUAUCAACCCUGCCACGGUGUUACUAAUCUCACGCCGCUCUAUCCACGUAGAGUUAUACCACGGUUAA
+((((((((.((((((.....((((((....).))))).....)))))).(((....)))..............................))))))))((((((..........))))))((((((....))))))............... (-36.20)
+>SeqCat02|37
+AGUAUACGCUAAGUUCUGUACUUGCCGCUGUCGCUUUACUCGGAUUGUUAAAAACCGUCAUCGGCACCGGGCAGAUAUCUCUAGUACCAAUUAUCCUGCAGUUUAACCACUGUGGAAACCCGUCACUAGUAUUAAUCGAGCGCUGGGCAA
+((((((..........))))))(((((.((.((.(((((.......))...))).)).)).)))))((((((.(((....(((((((......(((.(((((......)))))))).....)).))))).....)))..)).)))).... (-32.30)
+>SeqCat01|38
+UAAACGUCAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGAGCUAAAUUUUCUACGGCCACCCACGACUUGUUGCCCAGGACCGCGGUGAUUGGUUAUAGAUGAGAGCCUUUCAGGUCCCAGACCGUGCUUACUAGGUGUCAGAAAACUAUAUUUGUACAUCAGUGGUGUAGGAACCUA
+.....((..(((((.((.(((((((....)))))).).)))))))..)).....((((((((.((((((.((.((((.....))))..)).))(((..((((.........))))..)))((((...))))..........(((((((((........)))).))))).)))))))))))).... (-46.30)
+>SeqCat01|39
+GCGGGACCCAGAUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGAUUUCCGAAUAGUGGUUGUCUCUCCUCAAUUAGUGUCCCCGUUGAUUGGUUAUAGAUGAGAGCCUUUCACUUACUUCACAAUACGCUCCUUGUCUAAGCAUUGGUACCCGACGAGAGAUCUCCGGGUUAAGUAA
+((..(((((((((.(((((.((.(((((((....)))))).).))))))).)))).........((..(((((((..(((((((((....)))))))))(((.(((((((((((.....................))).))))))))))).((((...)))).)))))))..)))))))..)).. (-47.20)
+>SeqCat02|40
+UCAAAUGACACAUCUUAGAUCUAAAGCAUGUCAAGUGUGAUGGGGUCGUUUUACAACCGCAAAGCCGCCUUACUCGAUGGCGACGGUUGUCGUGCCGUCCCGGUUCACUAUGGGCCUCAAUUGUAGUCCCGUUCGAAAGGCGGAAGAGGC
+..(((((((.((((...........((((.....))))))))..))))))).....((......(((((((..((((.((.((((((......))))))))........(((((.(((....).)).))))))))))))))))....)). (-42.60)
+>SeqCat01|41
+UCGCGAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUGAGCUACCGUUAUGGGUCAACUACGGAGAGUAGUUACGUCCCGGGCAAAUGAUUGGUUAUAGAUGAGAGCCUUUCAGUUGUGUUUCGUCGGUAAUGCGUAAGCCGUCGUUUAGCCCCACAAGGUACAGGGAAGGACAGAUG
+......(((((.((.(((((((....)))))).).)))))))(((..((.((.....(((.(((((((.....))))))..).)))(((((((((((.((((((.(((((((..(........)..))))))).)))........)))))))))).))))............)).))..)))... (-49.70)
+>SeqCat02|42
+AUCAAGUGUAUCCUCAAGCCGGUAAAGCUGAGUUAUUCCACCUAUUUGGUGCACGGGGCCGCGCGCGUCUGAAAGCCCGUAGGAAAGCAUAACCUUAUGUCAUUGCCCCUGCUCGAACCCCUGAGAAGAGGACGAAGCCCACGGCUCAAG
+............((..(((((.....(((..(((.(((((....(((((.(((.(((((.(((.((........)).)))......(((((....)))))....)))))))))))))....)).)))...)))..)))...)))))..)) (-37.40)
+>SeqCat01|43
+AUUAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUAGUUCCAAAAGAGGCGCCGUGCGGACAUCCAAUCUAUCAGCGAGAGUCCUCUGAUUGGUUAUAGAUGAGAGCCUUUCAGUUGAGAUCAUAUCCUAUAUCGUAAGGGCCCGCGUGCAUGUGCCCAUUCGGAGCAGCAACGGAAA
+....(((((.((.(((((((....)))))).).)))))))...(((((.((.(.((((((((((((.......(((..((((((((((..((((.(((.......))).)))).))))).))))))))....((((........)))).)))))))...)))))).)).)))))........... (-49.40)
+>SeqCat02|44
+CAUCCACCGCUCCCACGCCACGUCGUCAUCUUUGCUAUUCCGAAGAACCGUACCAUGUCAUGAAGGAAUGCAUCGACCUGUCGGAAACCCCCGACACAAAACACUUUUCACCACUGGGCUUCACUCUAGGUCCGCCGCGGUUAGUAUAUC
+.....(((((....(((......)))..((..(((.(((((..(..((........))..)...))))))))..))..((((((......))))))..................(((((((......)))))))..)))))......... (-31.00)
+>SeqCat01|45
+UUGCACAGGCAUAAUUUUACCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAGGCUAGAGCGAAUUGCUUACCUAUGAGGACAUUCUGAUUGGUUAUAGAUGAGAGCCUUUCAAGGAAGGGUUGAACCCACUUAUGUUUGCCUAUCUCCACAGGGCCUAUGCGAGAUCUCACGUACAA
+(((((.((((...........(((((.((.(((((((....)))))).).))))))).(((...((((.....)))).)))....(((......(((.(((...(.(((((((((((((...)))))))).......))))).)..))).)))))).....)))).))))).............. (-43.10)
+>SeqCat01|46
+UUGUGGGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAGCAACCCGAUCCGGAUUGUACAUAAGGAACUAGAACGAAGGUCGAUUUUGAUUGGUUAUAGAUGAGAGCCUUUCAAACGCUUGAAACACCGCCACUCGACGUGAGGUCGCGUUGGGACACGCUCGUUAUACAGGGUAGUU
+..((((((((((.((.(((((((....)))))).).)))))))).((((.(((...))).))))...................(((.((..(((((..((((.........))))..))))))))))......))))..(((((((((....)))))))))....((((........)))).... (-45.30)
+>SeqCat01|47
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUAGGUGUUUGGCACUAGCGUUUCCACCGAGCUGAGAGCAACGCCGGUGGUUCCACCUGAUUGGUUAUAGAUGAGAGCCUUUCAGGUCGGGGGGUACAAGUAAAAGACGCUUGGUGUGAGAAUUCCGCAGUCUACACACCUAGCCAGCC
+(((((.((.(((((((....)))))).).)))))))((((((((.(((.(((.(((((((((((((((..........((..(((.((((((((((..((((.........))))..))))))..)))).)))..)).......)))))))).))))....))))))))).))))))))...... (-65.50)
+>SeqCat01|48
+UACCAGUCACUGAAGCAGCGAUUCAAUGCUAACCCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACUCAUCGCGGACACCUGUAGCUGAUUGGUUAUAGAUGAGAGCCUUUCACGAAUGAUAAGUUCGUGAGUACGGAAACGGAUGACUGCUCUUAUCGCGGCUCGGUAGUAGCUUCU
+.((((((((((..((((.........)))).....(((((.((.(((((((....)))))).).))))))).......((((....)))))).))))))))....(((((((((..(((((((((.....)))))))))..((....)).......)))))))))(.(((((....).)))).). (-50.80)
+>SeqCat02|49
+GGAAACUCUUAGAAAAACCAGGGCCGCCUCCAACUGCGGUUAGCGGAGUAUUGGUUGGUGGCAAAUACGAUAAGUUCGAAGAGCUCCAUCGCUCCACGUGGCACCGCGGGUACUCACUAAUAGAGAUUCAAUCAGAAGCGACAAACCACC
+(((..(((((.(((........((((((.((((((.((.....)).)))..)))..))))))............))).))))).))).(((((((.((((....))))))..(((.......)))...........)))))......... (-38.70)
+>SeqCat01|50
+CCAAAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCGUAUACCGGGGAGGUUCGUCAUCUGAGCCGUGAUUGCUAAUGCGAGAGCUGAUUGGUUAUAGAUGAGAGCCUUUCAUUACCGUGCGAACUAUGUACAAAGAUCUCACUUUGGGCCGAUGCAUGUUGUGCACUAACUGGUCC
+(((...(((((.((.(((((((....)))))).).)))))))(((.....)))((((((((.(((((((((((((..((((....))))..)).....)))).))))))))))))))).......((((((((.((((((((((......)))))......)))))))).)))))....)))... (-55.10)
+>SeqCat01|51
+GGAUCUGUUCGUCGCAAUUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGAUAUGUAACGGACCUAAUUAUUCUUCGCACGCCAAAUGAUUGGUUAUAGAUGAGAGCCUUUCACGGGCUCUGAGGCGGCAGGUUAGGGUUCCCCUAGCAGUAUUGAUUUUUCAAUGCAUAGGGUAAGA
+......((((((.(((.(((((((.((.(((((((....)))))).).)))))))))...))).))))))....(((((((..((.((((.................(.(((((((.....))))))).)))))))..(((((((...))))))).(((((((....)))))))..))))))).. (-57.70)
+>SeqCat01|52
+ACUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAAUUCCCGGAGUCCGUAUACUAGUGAUAGUAUAUAGGGGCUGGAGGUCCUUUUUGAUUGGUUAUAGAUGAGAGCCUUUCAGUACACGUCCCACUGCCGAUAAUCUACCUAGCUGAUCCCAGGGGAAUGACAUAUAGUAGAAGUAU
+..((((((.((.(((((((....)))))).).)))))))).((((((..(((((((((((((....))))))))..)))))(((.((.....((((..((((.........))))..))))...)).)))..(((..(((...((....))...))).))))))))).................. (-46.10)
+>SeqCat01|53
+UAUAGAUAAGCGUCCUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACCGCACAUUACAUAUGAUUCAACUACGUGUGAAUCUGACCUGAUUGGUUAUAGAUGAGAGCCUUUCAACAAAGACUGCGGUAAGAGGGGGCCUGACCUCUCUAGUUUCUGGAGAAUGAAGAGGGGGUUUGGC
+......(((((.(((((((((.((.(((((((....)))))).).)))))))((((((..........((((((........))))))(((((.....)))))....(((((...)))))........)))))).(((((((......)))))))..((((........)))))))).))))).. (-51.00)
+>SeqCat01|54
+GCGAGGUCGGCUGAGGUUCCAUUCAAGUCUAUUAGAACGACAAUAAGCGAGAUAAAGCUGAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGUUAUAGAUGAGAGCCUUUCAACGGUUAACUGUCUCUCCCCAUGUCGCGAAUAGGUGAUUUGCACGCGCGGAAGGUGUGUGUCAUA
+((((.((.((..(((((((((((...(((.........)))....(((........)))...(((((.((.(((((((....)))))).).))))))).......)))).)))))))...((((....)))).....)).)).)))).............((((((((.....)))))))).... (-47.00)
+>SeqCat02|55
+GUUUUUAAGGGACCGGUACGGCCUAUCUGAGUCACAUGAAGGAUGCAAAACUCCUUCGGUACAUUUGACCUAGGGCAUGUGAUAUAUCAUUUCAGCUGGAGGGAAAAGAUCUAGUCGGGAUAACUUCCGUUCCAAUCUACUCGUACCAUU
+..............(((((((((...(((.((((..(((((((........))))))).......)))).))))))..((((....))))......(((((((((...((((.....))))...)))).))))).......))))))... (-35.80)
+>SeqCat02|56
+GUCCUUUACACGUUCGCCCCACCCUGAGUCAUUUGUUCAAGCUGCCGUGCUACCGCAACAGAUGUUAGCGUAUGUUCACCAAAAGGUGUACUACCCGGCCUGUUUAAUCUGGGCUAGAGCACUUUCUGGAUUAUCGCUCAUCACCGGCAC
+...............(((......((((((((((((((.(((......)))...).))))))))..............(((.(((((((.((((((((..........))))).))).))))))).)))......))))).....))).. (-35.00)
+>SeqCat02|57
+GAUGUGAACCUGUCACGCUUACGACCGUUCAGAGAUAUACCGAGACUGGAGUACCAGCAGCUCAAAGGACAGAUCGUCCGUAACCGGUGGUUUACAACCGGUGUAUGAGACCACCUGAUAGAUGCAAGGUGGGAUAACUAACCGAGCUUA
+..(.(((((..(((........))).))))).)............((((....)))).(((((...((((.....))))...((((((........)))))).....(..((((((..........))))))..)........))))).. (-41.70)
+>SeqCat02|58
+GAUAUAGUCUACCAUCGCUGUGGGGUCACCCGGAUGGAGCAGCUCUUAGGGCCGGUACAAAGAUAAAGGCGAGAGGGUCAAUUAGGAGUGCACCGGUUUGUCAGCCUUUUUAUGUCCAAGUUGUCUAAGAUCAAAAGAUGGCUUCUAUGA
+(((((((.((.(((((....((((....)))))))))))).(((....((((((((.((....(((.(((......)))..)))....)).))))))))...))).....)))))).(((((((((.........)))))))))...... (-36.50)
+>SeqCat01|59
+CGCCUGCUAUAGGUACCCCUAUCCCGAGCGUUCCGUGGGACAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAUAGCCAUUAGCAUGAUUGGUUAUAGAUGAGAGCCUUUCAGCAGCUGCAAUUUGACACACGUGCACCUGGUCUAUUCGGACGGCCUGACGGAGUAGAACCCGGCC
+.((((((((((((....(((((.....(((((((...)))....)))).....)))))......)))))))))).((((((((((((..........))))))))))))((.(((......(((.((((............)))).)))((((....)))))))))..(((........))))). (-51.10)
+>SeqCat01|60
+CAUAGUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGAUCGGUAAGCUAUAUUCUAGGACCUGUAUACCAGCACUGUGAGGUUCGAUGAUUGGUUAUAGAUGAGAGCCUUUCACUUCGCAGAACCUUUCGGAGAAUUUCAGUAAGCCCGCCAUAGAUUCGUGGCCAUCCCGCAGCGCA
+....(.(((((.((.(((((((....)))))).).))))))))....((((.((...............)).)))).((.(((((((((((..(((..((((...(((((((...)))))..))....))))..)))..))))))).........(((((......)))))......)))).)). (-43.60)
+>SeqCat01|61
+CGGGAUCUUUAGACCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGAGAUGUCCGCAAUAGAUCGUCGAUCCGGUCGUGGUGGGUUUUGAUUGGUUAUAGAUGAGAGCCUUUCAGGAGAAUGAGGCACAGGAAGCUUAACGCUCGGAAGCUACUUUGUCAGGCGGAGAUCAAGCGAUGG
+..............((((((.((.(((((((....)))))).).)))))))).(((.(((((....((((...))))...((.(((.(((((((.(((.......))).))))))).))).))......((((.(((.(((((.........))))).)))))))..))))).)))......... (-51.50)
+>SeqCat02|62
+CCUGGAUAGAGCGGAUAUCACACAGCAGAGAUGAUGACAACGCUGCCGCUACCUAGCCCUUUCGAGUAAAGUCUCCUUUCGGCCGGUAAUGCAUAAUGUUCGGUGGCUGUGAACGGCCAAAUCUGUCCUACAGUAUAAGCUCCACCAUGG
+(((((...((((..((((......(((((..((.((...(((((((((.((((..(((.....(((......))).....))).))))............))))))).))...))..))..)))))......))))..))))..))).)) (-36.50)
+>SeqCat01|63
+CUAGAAUUCCCUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAGCCCGUUCUCUCCGCCUGUACGCCGGCCCGGUUGAAUCGUCUCUGAUUGGUUAUAGAUGAGAGCCUUUCACAAAAGGCCGGGCCUCGCGUUUUACCUAGGAGCAGCGCGUUCCGAUCAAUCUUUACUGGCGCUGG
+..(((((...(((((((.((.(((((((....)))))).).))))))).))...)))))((((......((((.((((((((((((..(.((((.(((.......))).)))))..))))......))))))))..))))........))))((((((....................)))))). (-59.80)
+>SeqCat01|64
+UGCGGACGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGCAACACAAUAAUGAGGCUACAGCAAUGGCUAACCCCCAUAAAUGAAAUGAUUGGUUAUAGAUGAGAGCCUUUCAUGGCAAGCCGACCGUGAGAUUAUUCCCGUAGAAGUAUAGAACCGAAAGCUUCCCCGUGAUAUUCG
+(((.((((....((((..((((((....))))))))))..)))).)))..........((((((.((.(.((((((((....(((.......))).)))))))).).))..))))))((((((........))))))((.((((..((..(((((............)))))..)).)))).)). (-42.40)
+>SeqCat02|65
+AAAGACCUCUUUGUGUCUGAUUACACGGGAGUGUCAAACGUUUGCCAUGGCACGGCGUCUGCUGUAAUCCACGGUCGUCAUGGAUCCAUGCGGUUUUUUUUGUUUGGGACGGGAAAGUGGGCUUUGAUGCCCGCCAAGGGUUAUUGUGUA
+...((((((((.((((......))))))))).)))..(((...(((.((((..((((((....((...((((..(((((......(((.((((......)))).))))))))....))))))...)))))).))))..)))...)))... (-46.60)
+>SeqCat01|66
+AUUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGUUAGUCCGGGGUCUCGCGCGAGCUUAAACGCGCAGUUCAAGUCGCGAAUACCUGAUUGGUUAUAGAUGAGAGCCUUUCAGGGUUCACCGACCGGCACGGCUAGUGAAACGUCCAGACGCCCUGAUCUACGAUACGCUAGGCCGU
+...((((((.((.(((((((....)))))).).))))))))...(.((((((.((.(((((........))))))))))..((((.((((.(((((..((((.........))))..)))))))))..))))))))((((((((((...(((.(((.....)))....)))...))))).))))) (-57.60)
+>SeqCat01|67
+GUAGUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAAAGAAUAGGGUUGGCUGCAGGCCUAUUGAUUGGAGAAAUAAAGUUGUACUGAUUGGUUAUAGAUGAGAGCCUUUCAGUAUAAAAGCAUCUCUUACUGCUCGCCCAAUGCGAGACGCCUCACGGGAUAACUGGCGCUGAGCA
+(((((.(((((.((.(((((((....)))))).).))))))).....((((((.(((....))).))))))....(((((.......(((((((((..((((.........))))..))))))))).....))))).)))))..((.((.(((.((...(((...)))....)).))).)).)). (-53.80)
+>SeqCat01|68
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGCUUGACCGUGCCGUACCGUCCUUUCCAAAGAAUCUUGGAUACCAAAACGCAUUCGUUGAUUGGUUAUAGAUGAGAGCCUUUCAUUUCAGCUAACUUGCGCAACAUGAAGAUGUGCAAUCGUCCCCUACAGCCCCUGCUCUGGCGUUUU
+(((((.((.(((((((....)))))).).)))))))(((.((.((.((.(((........(((((......))))).(((((((((....))))..)))))..(((.(((((........))))).)))..(((((((.(.....).)))))))........))).))...)).)).)))..... (-40.00)
+>SeqCat02|69
+UCCGCACUCACACUGCUCGGCCGAUGACGUACAAGGCUCGAGGAAGAUAUCUAAGGGAAAGAGGCGAGACCCGUGACGCAUGAGGGAAGUUUGAGGCACCGGUUUUUAGCUUCUCCCUUAGACCGAGGCUCAGUAGCUAUGCAUUAGAGC
+......(((....(.(((((((............))).)))).).....(((((((((..(((((((((((.(((.(.((...........)).).))).))))))..))))))))))))))..)))(((((((.((...))))).)))) (-44.70)
+>SeqCat02|70
+GACUUACAAAGUAAACACGAGAGCAUAUUCUUGUGGUUGGAACCUUGAGCUCGAACAUAUCAUGUGCCCAAGGACCAUCCUAUCGCCAAGAAUCUGGCAUUUAGCAAGUUUAAACCGCGAUGGAGUGCACUACUCUAGGGCCGGCGUGAG
+..(((((.........((((((......))))))((.(((..(((((.((....((((...)))))).))))).))).))....((((......))))................((((..(((((((...)))))))..).))).))))) (-38.50)
+>SeqCat02|71
+CAGUCAGCUUGAUCGAAAUUAAGGCCGUAUCCGAUUGACACCGUUACGGUACUCUAACUGCGCACCUGAGGAUUAGCCAACUAGUCGGUUGCUAGGUAGUGUGGACAGACUGGUAUCGAUCAGCGCGACGACGAAAACUAGGUGGGGCGU
+.........(((((((.((((..((((((..((........)).))))))..(((..(((((((((((..((((((....))))))......))))).))))))..))).)))).)))))))((((..(.((.........)).).)))) (-39.90)
+>SeqCat01|72
+GUGAGGUAAAUUGAGCAGUUGCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGAGGUGUUAUUUGCACCAGGGUGGGCCUCUAAAUUGAUUGGUUAUAGAUGAGAGCCUUUCAGGGCCUACGACGGGCAUAUUGAGAAGGACCCCGGGCGGGCAAUGCAGUGCCUCCAAGCGCCGAAA
+((((((((......((....))....)))))))).((.((.(((((.(((((...(((((.(((((.....)))))...((((((((......(((..((((.........))))..)))))))))))..))))).)))))))))))).))((((((((((......)))))....)).)))... (-58.90)
+>SeqCat01|73
+CAUUCAUUAUAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAAUACUUAGAGUCUCUCAUUGGUAAGUGGGGCAUCGCUUAGGGAUUGAUUGGUUAUAGAUGAGAGCCUUUCACAUGGCUGACUAGUCCUGAAGGGGCUGCUUAGACAGUACGUCACAGCCAACGAGUGAUACGCGGG
+...........(((((.((.(((((((....)))))).).)))))))...........(((.(((.(((((.....(((((((.(((.(((((((.((((((((.(.(((((...)))))))))))))).))))))).))).)).))))).(((.....)))...))))).))).)))....... (-49.10)
+>SeqCat02|74
+CUCGAAUGAAGCAGUCUGGCGCGACCGCAGUGAUAUGUAUUGUUAAUCCAUAGACCAUAGCUGUGGGUGCUUCAAAGUACGCCGCAUGCGCUUGUGAAAAUAGCCUCGGCUAGUGUGGUUUCCGGGUGGGUGUCACUACAUGCGUCGGGU
+..............(((((((((...(.((((((((.(((.......((..((((((((((((((((((((....))))).))))).))...........((((....)))).))))))))..))))).)))))))).).))))))))). (-48.40)
+>SeqCat01|75
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCACUACUCCCACGUGCUAAAUGCCAGUUCCGCACCUUGGGUCUCGGUGUCAACGACGUGAUUGGUUAUAGAUGAGAGCCUUUCAAGCCAUCAACAACGUUAAUUAUUGCUUCAUGGAUUCGUUAGCCAGAGGUCAGGCUCAUCACUUCU
+(((((.((.(((((((....)))))).).)))))))((((...((((.((((..(((....)))..))))..))))....)))).....((.(((((.((((.....(((..((.......))..)))...............(((((.(((.........))))))))..)))).))))).)). (-40.90)
+>SeqCat01|76
+AUUUUUGGGCGGAUUCCCAGCUAUUCCAACGCGCCACUCUUCUGGUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUCCGCGACGCUGAUUGGUUAUAGAUGAGAGCCUUUCAUCUGACAAAAAGCCAUGCUACCAAUGGCCGUCAAAUACCAGCAGACUGACUACAGCUGCAAGAAA
+.....((((((((..................(((((......)))))(((((.((.(((((((....)))))).).))))))))))))((((.(.((((((..(((((((((...)))))))))......(((...))))))))).).)))).....)))((((.(((....)))))))...... (-51.00)
+>SeqCat01|77
+CUGUUCACUCUGUAUACCGACAGAAACUACCUUGUCUAGUUUUAUGUCGGAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGUACGUGAUUGGUUAUAGAUGAGAGCCUUUCAUCCUUCAACAAACUUCAGAGAUCGUUCUGGUUAUGUACUCUGUAUUGUCCUUGCCGUCUCAGCCC
+(((.((((...((((.(((((((((((((.......))))))).)))))).(((((.((.(((((((....)))))).).))))))).)))))))).))).....(((((((...)))))))...............(((((.((...((....((((...))))...))..)).)))))..... (-40.90)
+>SeqCat01|78
+CGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGCCAACUGAUAACGACAAAGCUGCAACGCUGCUUAAGAAGGUGAAGUAGGACGCCUGAUUGGUUAUAGAUGAGAGCCUUUCAAGUCUUAUUCAGAAGAUCUGAGUUUACCUCUGCUUGAUGGACCGCGAAGAUGGCCCUGCAAUUGU
+.(((((.((.(((((((....)))))).).))))))).((((.((........((((((.(((....)))...(((.(((((((((((((...(((..((((.........))))..))).)))))))(((((...))))).)))))))))))))..))........)).))))........... (-42.50)
+>SeqCat02|79
+GAUUAUACAGGACACUAAGACCUCAUUUGUAACAUCGCUAAUCCGUGAAUUGCCGUACGUCCAAGUAGUGUCAAGUUGAUGACACUCCUAACAGGCGCCUCGGCCCCUGCCGUUAGCGCUAUACCCGGGGCAUGUCCUGAAGUAGUGACA
+.(((((.(((((((....(.((((....((((..((((......)))).))))..........((.(((((((......))))))).))....(((((..((((....))))...)))))......))))).)))))))..))))).... (-41.40)
+>SeqCat01|80
+ACGGACUGCGAGAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUCCCAGAUGUUACUCUUUCUCAUGGCAGGGCGUUCUGGGCCGUGAUUGGUUAUAGAUGAGAGCCUUUCACACCCGCUUGAUAAGGAAGACGACGUACGUGGACAUCUUAUUGGGACGCCGCCUACAUGUUCGUC
+(((..(((.(((..(((((.((.(((((((....)))))).).)))))))))).))).)))...(((((.(((.(((.(((.((...((((..(.(((.......))).)..))))...)).))))))))).))))).(((((((((.((((.(.((((...)))).))))).)))..).))))) (-51.80)
+>SeqCat01|81
+UAUAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAGAACGGCUUCUGAACAGUCAAGUUCUUGGAUCGAUGAACCGGCCUAGCUGUUGAUUGGUUAUAGAUGAGAGCCUUUCACAAUCGGGCCGUUGAAAUGAGGACAAUGCCAUGAAUCCUUGUGAUAAGGUAAAGCAAACCCGCCU
+.....(((((.((.(((((((....)))))).).))))))).....(((....((((......))))...(((((((.(((.(((...)))))).)))))))..........(((((((((((((((((.(((........)))...))).)))....)))))).)))))...........))). (-45.20)
+>SeqCat02|82
+ACGGACCCGCACCAGCUUCGAAGCGCUCUACACCACUCUAAGGCGCGUAAGUAAGGCACACUAAUAGCCUGGUAAUGCUAUCUACGCCCAAUCAUCAGCCGCAGUAAAAAGGACGUGCGACAAGGUUGAAUCUGAACUGAUUACAGGCAC
+............((((((.(..(((((((.....(((....((((((((((((((((.........)))).....))))...)))))..........)))..))).....))).))))..).))))))((((......))))........ (-29.10)
+>SeqCat01|83
+CGUUCUGCCGUUUGUGUGGUACCACGGGCAUCGGGCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGCGAGAUUUCCCAGUUAGAUGUGAUUGGUUAUAGAUGAGAGCCUUUCAACAGGGAUAACGUCUUCCUUGUAUCGCUUUCCGACUGUGCUAUGACACGAACAGCCUUAACAUCG
+.(((..((.((((((((.(((.(((((..(((..(((((((.((.(((((((....)))))).).)))))))))..)))...(((((((....)))))))........((((((......(((((((........)))))))...))))))...))))).))).)))))))).))...))).... (-62.00)
+>SeqCat02|84
+CUAAUUAUGUUUGCCAUCCAGCCGGACGGAGUAAGUCCUGGGAUGUGGAAUCCGUUUGAACAGCAUGCGAAGCCGUUGUCUUGUGGUCCCGAUGAUAGGGGGUACUCAGUCACUCCCAUCUUUUUGAGUAGUCUCUAUUGUCCUAGUUGC
+..............(((((....((((.......))))..))))).(((..(((...((.((((..((...)).))))))...)))))).(((((((((((.(((((((..............))))))).)))))))))))........ (-40.20)
+>SeqCat01|85
+ACAAGGAGCUAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAUCUCCGGCUACCUGCACUCGAGCUUCAGCAGUACAUUUCUGCGGUGAUUGGUUAUAGAUGAGAGCCUUUCAUAUCUAGUGGCCCAGUAGCAUUAGACAUGAUAUGGCCUCAAGCCGGUAGAUUCUCGCGGUAGAGU
+....((((..(((((((.((.(((((((....)))))).).)))))))))))))......((((.(.((((..((.((((.......))))....(((((((.....((((.(((..((((.(((((((.........))))))).))))...)))))))))))))).))..)))).)))))... (-58.40)
+>SeqCat02|86
+GCGGUACGCAUACUUAAGCGGGCGGGGGAAGUGCGUCGCACGUUCCAAGAGCUGCCAACCUUCGGUUUAUUGCGCGCACUGUGUAAAUACGGCUGUGCGAUAGCAAUUGAUCACCGCCGUAUUCCAUUUAGCAUUGGCGGAGACUGCGAG
+(((((.(((........)))(((((((((.((((...)))).)))).....))))).......((((.(((((((((((((((....))))).)))))....))))).)))).((((((...............))))))..)))))... (-50.50)
+>SeqCat01|87
+AACUGUCCGACUCUGGCCCUAAGAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUACCAGAAUUUUUAGAGCGGCGCCGCAAUCGGUGAUUGGUUAUAGAUGAGAGCCUUUCAUAAGCGGACGAGUCGUUCCAGAAGCGCCUACGCGAAAGGUAAAAGGGAACCUACAACGAAUACCU
+.......((..(((((.....((.(((((.((.(((((((....)))))).).))))))))).))))).(((((.((((((((((((.....((((..((((.........))))..))))..)))).)..))))))).)))))(((....)))..((((........))))....))....... (-45.30)
+>SeqCat02|88
+AUAGGAACCAUUAGGAGACAGUAAAAGAGUAAGAGCAGGUGGAGGGGCCGGCAUGACGUACAUGCCAUCAAGUAUGCUGAGCCAGGCUGUUGCAAGUUCCUAAAGUAUGCAGACUUGUGUAGAUUCAGGGCGACGGUUGUACAAUUUGUU
+...(.((((...................((((.(((.(((..((.(((.((((((.....)))))).....)).).))..)))..))).))))..((((((..(((.((((......)))).)))..))).))))))).).......... (-31.20)
+>SeqCat02|89
+GGCCUUAUGGAAGCAGUCCUCAGGGUUGUGACACCACGAGGGCGUGUAUCGCUUACCUGCCACAACAAUUAACCAACCAUACGAACUACGUAACGAACCAGGAAUAUCAGACGGAACUUCCCGAGCGAUAGGCACCAAUUGCAUACAUUA
+(.((((.(((..((((.((....))))))....))).)))).)((.((((((((.........................((((.....))))........((((..((.....))..)))).)))))))).))................. (-31.90)
+>SeqCat02|90
+UUCGCACUAGAGCUCUGGACCAGCGCACAUUGUUUGGGGACAACUCUGGUCAACGACCUAUUCUAAACGUGAGCCUUAUCGCCCCCGCCUACUGACUUAAUCACACUCUCGGAACAGUGAGACAUGGGUCAGCAUUCGGAAUGGGGGAUC
+.(((.(((((((...((..((...(((...)))...))..)).)))))))...)))((((((((....((((......)))).........((((((((.((.((((........)))).))..)))))))).....))))))))..... (-39.40)
+>SeqCat02|91
+CUUUAGUGGCGCUGGAUUGUAACGGGGUUGUAUCUUUUCGUAACAAAGAGGCUUGCAAGAUAGGGAGACCUCGGGACGAAGUGAACCUAUACAUAACUUAGCCUUCUUGGCUACGAGGGCGCUAAGUAGAUGUUCAAGUCCUACUCUCCG
+....(((((.(((((((((((...((((....((.((((((..(...(((((((.(......).))).)))))..)))))).)))))).))))..(((((((.((((((....)))))).)))))))....)))).))).)))))..... (-42.60)
+>SeqCat01|92
+UUAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGAACACCUGCAGCCCUUACAGGUCAUGGUCCCCUAGGCCAAUGGGCCUUACAGUGAUUGGUUAUAGAUGAGAGCCUUUCAUCGCUAGAUCCCGGCCCUGGGCUUUCGGGCUUCGGUUAAACGUCGUUAGCUAUUAGCGACCCGGC
+....(((((.((.(((((((....)))))).).)))))))....(((((.........)))))...((.(((..(((((...(((((.....(.(((((((....(((((((...))))))))))).))).))))))..)))))..)))))((((......(((((((.....))))))))))). (-54.30)
+>SeqCat01|93
+AGCAAUCUUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGUACAGCCUUAAGGCGCUCUACGUCAAUAAGGGGUCGAAGAAAAGAGUGAUUGGUUAUAGAUGAGAGCCUUUCAUGGUACGCAUUGGGAUCGCGACGAACUGAGACCUUGGCUAUUGUUCGUAUGAUAGGAAAGCUCAC
+(((..((((((((((.((.(((((((....)))))).).))))))))....(((....)))..((((((.(((((.((((((..((......((((((.......((((.(.(((......))).).))))..))))))......))..))))))...)))))..)))).)).))))..)))... (-46.40)
+>SeqCat01|94
+UCUGGGACAAGGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAGAGUAGUACUGUUGCGUUUAAAAGCUGCAGCAUUUCAUAGCACUUGAUUGGUUAUAGAUGAGAGCCUUUCAAUUGAUGAUUAAUGAUAUGGUGUAAUGGGUACGUAGAACAUGUAUCCGAACAGACCGAGUGGAUU
+.((.((......(((((.((.(((((((....)))))).).)))))))..........(((((((((....))).)))))).......((((((.(((((((((.(((((((...)))).))).))))))))).)...)))))...((((((((.....)))))))).......)).))...... (-42.40)
+>SeqCat02|95
+GGUUACGAAACCCGCGACAACGGGCUAAAAUAUAAGUAGAGCGUUGUACUAGGUAUAUCCGAACAUCAUCUGUUGCCACGUCUGGUCACGCUCUGUCCGCAACGGCAAUCUACGCUACGCACCUGGACAAAUUUACCUCGAACACAUGAC
+.(((.(((..((((......)))).............(((((((.(.((((((........((((.....))))......))))))))))))))((((((...(((.......)))..))....)))).........))))))....... (-31.40)
+>SeqCat01|96
+UGGAUAUACUAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUCGCGGAAAUAUCGACAAGCGACAGAUUUUUUCUACAGGCUGACAUUGAUUGGUUAUAGAUGAGAGCCUUUCAACGCGCAAAGCGGAAGAGGCACCGUAGACUAUUCGUAUCCCGGCGGCGGCGGACAAAUGUCUUAG
+..(((((.((((((((.((.(((((((....)))))).).))))))))...))..)))))....(((...(((.....)))....)))((((((((.(((((....(((.(.((((((...(((.....)))..)))))).)))).))))).))((.(((((....))).)))).)))))).... (-43.00)
+>SeqCat02|97
+UGAUUGCUAACUCGAUACCUACUGAAGAGGCGUGCCUACCACAGCUUACGAUCAGAGCCUCCCGGCUCCAGUACUUGACUCCAUGGUGUCUCCCGUAUAGCAGAAUUGACGUUACAAGCUGGGCGACAGACGGUGGACACUGACAUGUAA
+...................(((((...(((((((.....))).)))).......(((((....))))))))))........((((((((((.((((...((....(((......))).....)).....)))).))))))...))))... (-34.00)
+>SeqCat01|98
+UCGUCUCUGCGCCAGCUCCUUGAACUAUCGUAAGACCCGCUCAAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACACUAUAAAAAUGAUUGGUUAUAGAUGAGAGCCUUUCAAGAACAUCUCGUGGUGAAACAUCAGCGUCCGGGACCGUUCAGAACCACUGACACGGAUUUAGAUG
+..((((.((((..((.((...)).))..))))))))..((((...(((((.((.(((((((....)))))).).))))))).((((((((..(....)..)))))).)).))))............(((((((.(((....))).))..)))))((((((((.....)))).))))......... (-40.10)
+>SeqCat02|99
+CUCGGUGCGUCUCAUUCUUGAAUCCCCAUCUCACUUUUGCUUGACGCGGUCCCCUUGUCGAGCUGAGACCCGUCACGCAGGACACAAAAGAUCUAUCGGGCAUUGGCAUGAUCAGGAAUUCGCGAGGGCAUCCUGAGAUGCUCCUGCAAG
+...((.((((((((....(((.........)))....(((((..(((((...(((.((((.(((((..((((........................))))..))))).)))).)))...))))).)))))...)))))))).))...... (-44.50)
+>SeqCat02|100
+AUGUCAAACCCCUUCUGUCUACCAUACGCUGAUACUGGUCGCGAGUGCAAGUCGCGCCGACAAUCACGGGAGAGGUUGUCUAAAACUACUGGAGAGUCAUCCACUCAGAGCACUCUUCUCAAAUCAGCUGUGAUGAACUAAGUUGUAGAC
+................((((((((((.((((((...((.(((((.......)))))))(((((((........)))))))..........(((((((..((......))..)))))))....))))))))))............)))))) (-40.50)
+>SeqCat01|101
+GCCUUUCCUUUGGUUCCGUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGUGGACUCAUUUGUCAAAACUCCUACGAAGGCAGCGGUGAUUGGUUAUAGAUGAGAGCCUUUCAUUGUUGCAAAGACCGGGGUGGUUAUGCACGCGGAUUAGCUAAUGAGUCAACCCCCGCCGAGAUAG
+........((((((.....(((((.((.(((((((....)))))).).)))))))(((.((((((((.......(((((.......((((((((((..((((.........))))..)))))))))).......)))))(((((..(.....)..))))))))))))).)))...)))))).... (-53.70)
+>SeqCat02|102
+CCCGGGAAGGACCAGUCAUCAACUUCCCGUAAAUCACGAAACGAAGGUUUCGCCUGUAGAGCAAUCCCUAGUCGCCGUGUCAUCUUGACGUGCACCGUUCAGCGUGAGGAUGAAUGAGGGGUCGGGAGGACUUGUACUCGCUCUGCCUGG
+..(((((((.............))))))).......((((((....))))))((.(((((((..((((..(.(.((...(((((((.((((..........)))).)))))))....)).).)))))............)))))))..)) (-51.30)
+>SeqCat02|103
+AAAUGGUCAACAUGCAGCGACUAAAGCCGGUACCGUAAAGUGCUAGUUAUUAUACGCUGGGUAUCGAAAUCGCUAUGCGUAAAGCGAGUGACGGGUCAUCAGCUUAAAAUUUACGCUCAUUAGGGACCAGAGGGACGCACAACAUCUCGC
+...(((((...(((.((((.....(((.(((((......))))).))).......(((((...(((...(((((.(((.....)))))))))))....)))))..........)))))))....)))))((((...........)))).. (-35.40)
+>SeqCat01|104
+AGCCCCGGGAGCAGGGAUCGGAUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUGAUAAGCGUAGUACACCAACACAGUAACCAAAUGAUUGGUUAUAGAUGAGAGCCUUUCAAUUGCCGGCACUAGCUAUCGAAUAUUGGCAGUUACCGGAACUCAAGGCCCUAAAGAUUAAUUACC
+...(((.......)))((((((((....((((..((((((....))))))))))..))))))))....(((((...........((((((((....)))))))).....((.(((((.......((((.(((.((((........)))))))..)))).....))))).))........))))). (-46.90)
+>SeqCat01|105
+CUGACCGUCUAGUUCGCGGAAGAUGUAAGUUCGAUUGUGCAGGUCAUGUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCAAGUCGGUGAUUGGUUAUAGAUGAGAGCCUUUCACAUUAAUAUAGCUGAGUAAUGCCAAACCCUGUUCUACUCGUAUUAUUCCUGUACGUCAUCAAGAC
+.(((((((.(((((....(((........)))))))).)).))))).(((((((((...((((((....))))))....(((......))).((((..((((.........))))..))))............(((((((((.................)))))))))..)))))))))...... (-41.80)
+>SeqCat01|106
+AUAGAACGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCAUCAACAGGCGGCCCAUAUCUCGGGGACUGUGGACAGGAACAACGUCCAUGAUUGGUUAUAGAUGAGAGCCUUUCAAGGUUUCGUGGAAUUGCAGUAACUGAGCCGUCCUAAGACUUCUGUAAGACCCACCCAAAAGUGAG
+((((((.(((((.((.(((((((....)))))).).))))))).......(((((((.......((((..(((((((.((.(((......((.(((..((((.........))))..))).)).))).))...)))))))..)))))))).))).....))))))......(((......))).. (-44.10)
+>SeqCat01|107
+CUACCGCUCGGCCGGUAUUACGUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAUCACUCGAUAAAUCUCUCGCAACCAUCAGAAACUGAUUGGUUAUAGAUGAGAGCCUUUCAUCUGUGGGCAUCGCUAGCGGGGCCGUGGGUCCAAGUCAGAAACUAUGCACAGCAUGCGCGUUAGU
+.(((((......)))))....(((((((.((.(((((((....)))))).).)))))))))............((..(((.((((((((...)))).))))(((((((((((...))))))))))).((((.(((.((((((((...))))).............)))..))))))))))..)). (-51.50)
+>SeqCat01|108
+CGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUGAGUCCUGAGCAGGAACCCAGAAAGUCGAGUGUGCAAAAGAGGGUUUUUGUUCGUGAUUGGUUAUAGAUGAGAGCCUUUCAGUUAACGAAUUAGCGGUCCUAACCCAAUAGAGUAGCGCUACGUAGACCGAUUUACCAGGCUGUAA
+.(((((.((.(((((((....)))))).).))))))).(.((((.(((((((((((((......................))))))))))))).)))).).........(.(((((.((.(((.(((...(((((.(((((......))).).).)))))))).))).))......))))).).. (-47.70)
+>SeqCat02|109
+GCCCUCCUCCGAGUUCUCUUCGAAACAAACUCCACUACUCCCUUAUCCUUAUGUCCCGCUGAUCGUCGGAAUACAGUACUCCUUGGGUCUUGUUGAACCCUUGGAGAUUGUAUUCCAUAGCUGUCCACGCAUAAUAAUGCCAGUUAAAUC
+..........(((((............)))))...................................((((((((((.((((..(((((.....).))))..)))))))))))))).((((((.....((((....)))))))))).... (-36.00)
+>SeqCat02|110
+GCAUAUCCUUAGGUUCGAUAGCAGCGGAAUGGACAGCGGGGUGCCCGGUUGGGCACAUUCCGAUCCCACGUGCGUAUAUGCAAAUAUGGAGUUCGGCCUCGAAGGUAUAUAGACUUACAAUGUUAAGGCCAUAGAAUAUGUCGGUUCGAU
+((.((((.........))))))....((((.((((.((((((((((....))))))..))))...(((..(((......)))....))).(((((((((.((..(((........)))....)).)))))...)))).)))).))))... (-42.40)
+>SeqCat01|111
+AUAUAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGAUGCACUUUCCCACGGUGGCCCUGGGUGGCCAGCUGGGUCUCUUUAAGCUGAUUGGUUAUAGAUGAGAGCCUUUCACACUACAUAUUAUUUAGAGAGGAACGCGUCACUGCGCACCCGCUCCCAGGUGUCCCCAGAUGGUG
+......(((((.((.(((((((....)))))).).))))))).....((((.((....((.(((((((((.....(((.(((((((((((((.((((..((....(.(((((...))))))...))..)))))))))))))....((((....))))))))))))))))).)))))..)).)))) (-53.30)
+>SeqCat01|112
+ACGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUCGGCCAUUGAGAGGCUCGGGCGCCCGUACCGAAUGACACGACCAGAGGGGGUCAUGAUUGGUUAUAGAUGAGAGCCUUUCAACACGGUAAUGUGGGAGCCAGAUCAGCGCGAAGUAGCUUGUGCGACAUACCGGAAGGUCAGUUCU
+..(((((.((.(((((((....)))))).).)))))))..((((.(((((((((((..........((((((((((....((...))..)))))..))))).........)))))))))))..(((((.((((.((((.(..((.....))..).)))).))))...)))))...))))...... (-55.70)
+>SeqCat01|113
+UCGCCGGCGUGAGGGAAAGUUACUCGAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAACUUACCGGACUUACACUGCCAGCGGUUUGAUUGGUUAUAGAUGAGAGCCUUUCAACGCAUACCCUCCGAAAGAUUUAAGCAAUGCGUGCUUUGCAUACAUCAAGAUGAUUCGAGAGGUC
+.(((.((((((((((.((((.......((((((.((.(((((((....)))))).).)))))))))))).))...)))))...))).)))((((((..((((.........))))..)))).))....((((((((..((((.....(((((.....)))))......))))..)))).)))).. (-48.40)
+>SeqCat02|114
+UGCAUGUUAUCACCGUUGACAUCGGAGGGCAACUUAGUCAGAAGAGCACUCGUGCAGUGUUGGCCCCCCCCGUUCUGGCAUGAAGCGGAUUGAGACACCCACGAAGACCUGAAUUGCAAUGACCGCUCUAAGUAUCCGCUUAAUUUUGGU
+(((((((((.......)))))(((..(((...(((((((......((..((((((.....(((......))).....)))))).)).)))))))...))).)))..........))))...((((...(((((....)))))....)))) (-29.60)
+>SeqCat01|115
+GUGUAGUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAGCCACAGGAAAAGGUCAGCCGCGCCUCCAACCCUAGGAAAGAUGGCUUGAUUGGUUAUAGAUGAGAGCCUUUCACGAAUGUAAGCCACAAACACGCCAACUUAUAAAAUUAAGCCCGCUCUUGUCUGGGGACGCGACCC
+(((.....(((((.((.(((((((....)))))).).)))))))....))).......((((....(((.......(((((((.((((.((((((((((((((((..(((((...)))))....))).)))))....................))))))))...)))).))))))).))))))). (-44.20)
+>SeqCat02|116
+CACAAGCACUUGCGUUCUCAUUGUCCCUUGCGACCUAAAGCAGCCAGGCUCACUAUAUUGGGCUUUUAAGGCGAUUGAACUAGUUUAGAAGAAAAAAAGGCUCGAAAACAUGUGGUACUUUCAUAACUGUUACCAAAACAGGUUUUCAAU
+....(((.(((...((((..........(((........)))((((((((((......)))))))....))).................))))...)))))).((((((.((((((((..........).))))...))).))))))... (-28.00)
+>SeqCat02|117
+GAGAGAUCCCGAGCGCGCUCGUCCCAAAAACAACCAAAUAACGUGCCAAGGAGAUAGUGAGGCUAACCUGAGGCAUCUGUAGAGUACGUUGAUCGUUGUCACGAUGUUGUCAGGUGGAUGGCACAAUUCAGAGUAGACCACCUAGUGCCG
+.....((((..(((.((((.(((((....((...........)).....)).)))))))..))).((((((.(((((.((.((..(((.....)))..)))))))))..))))))))))(((((....................))))). (-36.70)
+>SeqCat01|118
+UUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAUUUACUAAAUGGCAGUAAUCCAGAGAACCCUUUGAUCAGCAGAACCUAGGGUUGAUUGGUUAUAGAUGAGAGCCUUUCAGAUUGUAUCCUCAAAUCGUGUAUAAACAUCGGAUCGCAAAGCGAUAGCUAAACGGUCGUUCAUGG
+...(((((.((.(((((((....)))))).).)))))))...(((((.......))))).((((((((((((..(.((....)).)..))))))((((((.(((((.(((((...)))))..))))).))...))))((((....))))..(((((...(((....)))...))))).))).))) (-39.50)
+>SeqCat02|119
+GCGGUAAUACGACUAUCCGCUUAGACUACGGGCUGCCGUAACUCCUUCCUUAUCAGUCCGUAGACGCAAUCCAGAGGGAGCUGCAGCGUUCACGGAGUCAGUGCGGUCGACGUUCGGAUCGCGAGGCGUAGGGGCGUUGUUGACGUUAUU
+((((............)))).....((((((((((..((((........))))))))))))))..((..(((....))))).(((((((((.(...(((..(((((((........))))))).)))...)))))))))).......... (-49.20)
+>SeqCat02|120
+AUGAGGAGGCUAGUCAUUCUUAGGGCGCAGCAAGUUCCAGUGGGACCGAGCGCAUCAGGGUCCAGCUACGCCUGUGUACGAAAUAGUCCUCUAGGUAACCAAUAGCUUGAAGGAGGCUGAUUACCUUUAUCUGUUGGCAUGUCCGACCCG
+....((((((((..........(((((.(((...........(((((...........))))).))).)))))..........))).))))).((...(((((((..((((((..........)))))).))))))).....))...... (-41.10)
+>SeqCat02|121
+UAAUCAUUCUACCAUUCAUCCGCUCGGGUCUCCCGCACUGUACUAGCACCCUACGGGCCUCUCUUUUCACUCAACGAGUUGAUAGCAAGCUGCACACCUGUUCACUUUCGGCUUGAGUUAGUCAGCUAUAGGAUAAGAGGAAGGGCACUA
+...................(((...((((((...((...))...)).))))..)))((((.((((((...((....(((((((..(((((((................))))))).....)))))))....))..)))))).)))).... (-32.90)
+>SeqCat01|122
+CCUAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUGAUAGAGGAAUACCCUCGAUGUGUAAGGCCGUGGUCAAUCGCUGUCCGGUUUGAUUGGUUAUAGAUGAGAGCCUUUCAUACGGCGUUAUAGUAACUUCAAGGCGGUCGAAGAUGCAUCGCAGAUCUGUCGCGUUAACUGGGCA
+((((((((((.((.(((((((....)))))).).))))))))....((((.....))))((((((..((((.(((((..(((..((.(((.(((((..((((((..((((..(((........))).)))).))))))))))).))).))..)))..))))).).)))..))))))...)))).. (-56.60)
+>SeqCat01|123
+CGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUCAUUAGCGAAUUUGGGUUACGCUCGUGCGUAUAUGGGAUCGAAGCGUGAGUCAUUGAUUGGUUAUAGAUGAGAGCCUUUCAUGCUAAGAAGCUCCCCUGAACUGGUCUCUAACCGGGGCCUUUUGAUUGGCUAUUUUCAAGCUACG
+.(((((.((.(((((((....)))))).).)))))))(((((((((.(((((((.(((((((((..(........)..)).))))))).)))..)))).)))...))))))((((..(((.(((....)))...........((((((.....))))))...)))..)))).............. (-51.50)
+>SeqCat02|124
+UCGAUGGUAACAAACAUCGCUCCCAGAGACAUCGGACGCUCCAAAGAUGGAUCGCUUUGACCUUCAGUCCGCCUCAACUAGGAUAUAGAGAGGGAAAUCCCCAACCAUAUAAUUCAUGGGCCAGAGUUGGUAGGGAAGCAACCUCCAUUU
+..((((........))))((((((.(((...(((((((.((((....)))).)).))))).)))..((((..........)))).......(((.....)))..((((.......))))((((....)))).))).)))........... (-35.30)
+>SeqCat01|125
+GCGGUAUCCUCAUAGCACUCCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGCUGUCCGAUCAACCGCGUCCAGUGUGUAAAACUAGUGAUUGGUUAUAGAUGAGAGCCUUUCAACUACAAUCACAUUAUUUACAGUUAGCUGCGCUUCUAGCUCCAAUACUCCCAGCCCCGGUCCUGG
+((((((((...(((((.....(((((.((.(((((((....)))))).).))))))))))))..)))..)))))((.((((.((((((....(((((((....(((.(((((...))))).))))))))))....))))))....)))).)).................((((........)))) (-44.20)
+>SeqCat01|126
+GCCACUCUUUUGAUGCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGCGGAUAACAGAGUCAUCCCUUAGGAAUCGACUUUUCUUCUUGAUUGGUUAUAGAUGAGAGCCUUUCAUUCCAUAUCUGCAAACAGCUUGCGAGCUAAGCCCCUCUAUCCGCCACUCGUGAAUACCAUCUAGG
+..(((((....)).(((((((.((.(((((((....)))))).).)))))))))(((((..((((((.(((....)))...)))))).......((((((.....(((((((...)))))))))).))).((((.....))))(((........)))))))).......)))............. (-39.40)
+>SeqCat02|127
+UCUUAUCUUGCGUGUUAUGCCCGAUUCUUGCAUCAUGUCGCUCCCCAAGCUCGGCCAAAAAGCCUUACUCUUCAUAGUAACUAGAGGACAUUGCAACGGAUGCGCUCUGGUUCUUGGCGAACUAAAUUCUUAGCUCUCGGGUAUCCGUCA
+.........(((.(..((((((((.....((........))((.(((((...(((......))).((((......))))(((((((..((((......))))..))))))).))))).)).((((....))))...)))))))))))).. (-35.30)
+>SeqCat02|128
+CCGUGCUAAAAGGACAUGUCAAACGAGGUAACGUACACGACACGAUGCGUCCUACAUUUCCAUCGAACUGCGGGUAUAGGUGUUAGUCGAGUAUGCUACUGAACCGUGGCUAUGGGCCGACAUUUGUAAUUAUGUGGUUACCGGCCUUUA
+(((........(((.((((.....((.(((.(((.......))).))).))..)))).)))....(((((((..((((((((((.(((.(....(((((......)))))..).))).))))))))))....)))))))..)))...... (-36.60)
+>SeqCat02|129
+GCGCUUACCCGGUUAGAGAGUGCGCAGUGCAGAGUGCGUGUGUUGUUUACUCAAAAACUCGUUGUUGUUGGGGGCAGCUGAAUAAUUUAAUUGCGCUUAGGAUUUAAAUACAUGGUCUGAGCGCCGUGGGCAAUCUGUCUAACGCUCUUC
+(((((((.(((((....((((.(..((((((((((......((((((..(((((.(((.....))).)))))))))))......))))...))))))..).))))....)).)))..)))))))((((((((...))))).)))...... (-39.30)
+>SeqCat01|130
+GGCAAAAUCUUAGCUCUUUUAAGGUGCAGUACGAGUUGAACAAGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAUGUAUCGAGUCUGAUUGGUUAUAGAUGAGAGCCUUUCACAAUCCGGUUCUUAGGUUGGGAAACCAUAGGAUACCAGGUUGGUGUACGUCCUCAGCCGGAAUGC
+......(((((((.....)))))))(((...((.(((((....((((((((...((((((....))))))...((((.((........))))))((..((((.........))))..)).(((((.((((((((((((....)))).))))).))).)))))..)))))))))))))))...))) (-53.30)
+>SeqCat02|131
+AGUCUCGGUUCGAACGCAAGCAGGUGUCAUCCGGCACACCCGAUUGUAAAACGCCGCAUCCUGUAAAUUCUCACUGUAUACCACUACCGCCGCAGACAGUUACUAAGUACGGCCUUGCUAUGGUAUUCACAUGGUGUAUACCGAUAGCAC
+.((((((((..........((.(((((((..(((.....)))..))....)))))))..................(((......))).)))).))))..................(((((((((((.(((...))).))))).)))))). (-32.70)
+>SeqCat01|132
+GCUAGAGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUUCGCGGCCAACGAUCAGCGAAUAUUGCUCUAUUUGUUGCGCUACCCACUGAUUGGUUAUAGAUGAGAGCCUUUCAUGUUGGGAUCUCUCUGGCCCGUUCGCUCGCUGAACUGAAAUAGCGUGCCCUGAGGUUAAACCGUA
+((((((((((((.((.(((((((....)))))).).)))))))......(((((((((..(((((...)))))....)))))).))).((((((((..((((.........))))..))).).))))....)))))))((....((.(((((........))))).)).....)).......... (-52.50)
+>SeqCat01|133
+CGUAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUACUAAUUGGACGCUUGCGGUUGCACGCUGACGGAUCCGGCACUACUUCCGGAUGAUUGGUUAUAGAUGAGAGCCUUUCACUUCCCUCGUAAAUAAUCCAUCCUAUUACUUCCUCGCGGAUCACUAGAGACCGCAAUCAAUUCUG
+.((((((((.((.(((((((....)))))).).)))))))))).((((((....((((((((...(((.((.((((((((........))))))(((.((((((..(((((..............)))))..)))))).))).........)))))))..........))))))))))))))... (-50.80)
+>SeqCat02|134
+CCAUCGGACAUCGCACUAGCCGAGCAGGGCAACUGCUGGGAUUAGAGUUCGCAGGUGUUUUGAUGGCCGAACUUGGCUCUGUUAAUCUUAAAGAACAAAUGGAUCGGCCACUCCGGCAAUCGCGGCUUCUCUAGAUGACUGGGCCCCACC
+((((((((((((((.((((((.(((((.....))))).)).)))).....)).)))).))))))))........(((((.((((.(((...((((....(((((..(((.....))).))).))..))))..))))))).)))))..... (-47.50)
+>SeqCat01|135
+UGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACCAGAUACGGGGAGGGCUCGAAGGUGCAUGCCCGGUUACGUAUCCCCGCCCGACUUGAUUGGUUAUAGAUGAGAGCCUUUCAUGAUUUAGGCCUCUAUGGGAGCUGGACAGGAUACUCGAACGGGUACGACCACCCGAUAAUUAUGG
+((((((.((.(((((((....)))))).).))))))))((((((.((((..((((............))))(((..((((..((((..(((((((.((((((......(((.((((..........)))))))......)))))).))))....)))..))))))))))).))))...))).))) (-53.50)
+>SeqCat01|136
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGGCGCGCUUUUGCGCAGUUCCAUCGCAACCCGAGUGAAACGAUAUGCGGGCUCUCACUGAUUGGUUAUAGAUGAGAGCCUUUCAAAGUCUCCUAUGCCGAGCAGCCCUCCAUCCUGGAGAAGCUCGUCCGCAGGACAUGUUAACAUCUG
+(((((.((.(((((((....)))))).).)))))))(((((((....))))........((((...((.......))...))))(((((((((((........))).))))))))................)))((((....(((((...)))))..))))((((...))))............. (-55.80)
+>SeqCat01|137
+ACAAUCGGAGUCGGUGAUUGCCUAGAGCGGAUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCCCAAAGCCCGCGAUCAUUCUUAUGAUUGGUUAUAGAUGAGAGCCUUUCACCCAGGCCCGUACUAUCCUUGAGGUCGCGAGAUGGUAUGGAGAAAAACACAUCCGGGACCAGUAA
+.(((((((((..(((((((((...(.((((...(((((.((.(((((((....)))))).).)))))))..))...))).)))))))))))).))))))...(((((((.(.((((.......)))))))).))))......((((.((.((((((.(......).)).)))))).))))..... (-50.70)
+>SeqCat02|138
+AUCCCUUAUUUACGGGCGAGGUGACCGAUCGGGACUCCGCAAAGCUUCUUUUCAGAAGCAGAUAGCUGAAGAUCAGCUUAUAGUUAGCCAGAGCAUCUCAAGUGAGUCUCUAUGAACCUAAACGUUACUAGGAGUCUCGAGCCAUGUUAC
+..(((........)))....(((((...((((((((((.....((((((....))))))....((((((...))))))....(((....((((...(((....))).))))...))).............)))))))))).....))))) (-41.60)
+>SeqCat02|139
+GUUUGGUUAGGCUCGAGUAGAAAUCGCGGUAAUGACUACCUCCGCGCUUGCCUACGUCCCUCGCCGGUCUCAAACUAUUUAUGAGGAGGUAGGACACCAAAGGGGAGAGUGAAAAAGGGGUCGGGUGUAGAUUGCGAUGAACCAUAGCUA
+...((((((((.((........((((((((....(((((((((((.(((.(((..((((...(((..(((((.........))))).))).)))).....))).))).))).....)))))..)))....)))))))))).)).)))))) (-41.50)
+>SeqCat01|140
+CUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAACUUUGUCAGGCACAGGACUAAACUGAAUACCGAAAAAUUGGGCUACUGAGUUGAUUGGUUAUAGAUGAGAGCCUUUCAAUUAUACUUCGCGAUCUGGGGUUGUAAUUUCACAUGCUUUCCCAAUCCUCGCCUCCUCGAGUGAA
+.(((((((.((.(((((((....)))))).).)))))))))((((....((((.(((.......)))....((((....))))......(((..((((((........((((((.....((((((((((((.....))))).)))))))......)))))))))))))))))))....))))... (-43.90)
+>SeqCat01|141
+ACACGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAUAAGGGGGAGAGUACACAGAGGGAGAAUUCCCCAUGAAGGUUACCGGGACGCUGAUUGGUUAUAGAUGAGAGCCUUUCAUUUAGAUUAUAAUUCGGAGAACUGAAAUGGAACUUGACCAACAUACAGUUUAAACUGUUGAUCUA
+....(((((.((.(((((((....)))))).).)))))))....((((((.....(......).....))))))....((((((.(((...((((.((((((((((((((((...)))))))))........(((((....)))))........)))))))....)))).....))).)))))). (-41.70)
+>SeqCat02|142
+AACUCCACUACUUGGAGCGCGAUUUCACUCCAUCCUGGCCACAAACGAGUUCGAAACUGGAAUACAGCCCGGUACGAUGGUCAGCACCGAGAUCCCCAGGUACUGGAAGCUACAAUUGACGGUGGGCGAGUAUCACGCGAGCGAUGUUUG
+....(((.....(((((.(......).)))))...)))...((((((.(((((....((..((((.(((((.(.((((.((.(((..(.(((((....))).)).)..))))).))))..).)))))..))))..)))))))..)))))) (-39.10)
+>SeqCat01|143
+UACCAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAGUUACGGCAUACGACAUGGUAAAGAGGCACGGUUUUUAUAAGACGUUCCAUUGAUUGGUUAUAGAUGAGAGCCUUUCAGUUAACCACUAAUACUAAGUACGGUACUCGAACGCUUUCCGUCGUGUCUGUCUACCUGCCGCUUA
+.....(((((.((.(((((((....)))))).).))))))).....(((((........((((.(.((((((((.......(((.(((((.(((((..((((.........))))..)))))..((((((.......)))..)))....))))))))....)))))))).).))))))))).... (-46.70)
+>SeqCat01|144
+CGCCGUCCUAGACUUCGUGGGGCUCUCAGGUAUGUGACCGAUGUUCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUCCGUCGGAAUGAUUGGUUAUAGAUGAGAGCCUUUCAAAUCGAACGAAAGCCAUUUCAAAAGGUCUGAAAAGUGCAUCAACGGAGGAGAGUGCUCACGUUGG
+.(((....(((((((.(.((((((((((....((((((((((.(((((((((((..((((((....)))))))))).........)))))))...))))))))))..)))))))))).).........((((....))))...)))))))....).))..((((((((.......))).))))). (-57.50)
+>SeqCat02|145
+UGUUUAGAGUGCCUCUGAAUCCACUACUUGCAGAGAGGCGAUCAAAAGUGGGUCCUGUCUAAAUCGAGAGUCUUAACAUUCAACUGGGGAGAGUUUGUUUUGCCACUAGUCGUCUAGCGAUCUACCGCUGUACUAAUGAUGGACUGCCUU
+......((.(((((((.................))))))).))..(((..(((((.(((......(((.((....)).))).(((((((.(((.....))).)).))))).((.(((((......))))).))....))))))))..))) (-34.20)
+>SeqCat02|146
+CUCACCCAUCAGACUUUGCUAGCUGACUGCCUGUUACGACAACCAACACGGGAGCACGUGAGUAAGGCUCUUCGCCCCGUGUUCGAGAGGUACGUCUCUUGAGUGCUGAUGCCUUACUGGACCGAUAAGGGGCUUGCUAUUAACCCUGUG
+......((((((((((....((..((((((((.(..(((......(((((((.((....((((...))))...))))))))))))).))))).))).)).)))).))))))((.....)).......((((............))))... (-42.20)
+>SeqCat02|147
+AAGCUGAGACAGAAUUUCAUAUUGCAACACGCUAAUAAGUCUUAAGUGAAGAAAGUUCUUAUCCCGUGUUCUGCGUUCGUGUGAAAGCGUACGGGAUAGGACUGCUGGAUUACGUCGACAGGACGGAUCAGACCAUGCCGGCGAGUGUCG
+..(((((((.....)))))....))...(((((......((((.....)))).(((.(((((((((((...(((.(((....))).)))))))))))))))))(((((....((((.....))))............))))).))))).. (-38.30)
+>SeqCat02|148
+GGACUUGAACCUUGGAUGCAAUUGGAUUCUUUAGUAUCGAACCUCCUCCUUACAGCUAUCCGAUGCACGUUCGCAUAAAGCCGAAGACUAGCCACCUACACGCGGUGCCUACCUAUUUGUUUGUGUCUAAUGCGGGGCACAAAUGCGAUA
+................((((.((((((.((...(((..((......))..)))))..))))))))))...((((((.....((((...(((.((((.......)))).)))....)))).((((((((......)))))))))))))).. (-32.70)
+>SeqCat01|149
+AGCAGUGAAAUCGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACUGGAACAAGAUGGCUUCACACGCCGUUGACUACGGCUAUGACUGAUUGGUUAUAGAUGAGAGCCUUUCAACCUUGAACAGGGAGUCGAGCCCCAUCGGUGUAAUCGGUCACUCGGACAACCCUGAAGCCGCCCA
+..((((((...((....((((..((((((....))))))))))..)))))))).........(((((((...(((((.....)))))...((.((((((((((((((((.(.((....(..(((.....)))..)....)).)))))..)))))))))))).))((.....)))))))))..... (-53.00)
+>SeqCat02|150
+AAUAUGCGUCGCUUCAGGGCCGAACUUUUUCGUAGACGGCCCUGCAAUGCCUCAAAAUAUUAUGGCCGGUUACAGCACACUAUCCUGAUAUAGAUCCGCCCAUUUCCCGCGUUUCGUCACGAUACAAGACAGAGUAGCAUCACAUUGGUC
+(((((..(..((((((((((((.((......))...)))))))).)).))..)...)))))..((((((((((.......((((.((((...((..(((.........)))..)))))).)))).........))))).......))))) (-32.00)
+>SeqCat01|151
+UCGCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAUCCUACAGCACCUUCCGCUCUAGGACUGGUUGGGCCAGUGAAGAUCGAAGUUGAUUGGUUAUAGAUGAGAGCCUUUCAGUUCCUACACUAUUUAAGAUAGCUGUGUAAUCUAACUCCUGAAGACGUAUUCUUUCUGUGGACCA
+(((((((((.((.(((((((....)))))).).)))))))...((((.(((.......))).))))((((((...))))))(((((.....(((....((...(((((..((((......)))).(((((((((...))))).))))..)))))...))....)))....)))))..)))).... (-42.80)
+>SeqCat02|152
+UGCCAAGUAUGCCCAUACGCCAAGCGUCUAUUUCUGAAAGCGCGUAACCUUUUUCGUACUUCCUAGCUUUAAAGUGGGCAACCAUCAAAUGCGUAGCUUACUACCAGGGGCUUUGAGCUCUUAGCGCAACGACAUAGGCAGACUGCGAAC
+((((.....(((((((.....((((.........((((((.(......).)))))).........))))....)))))))........((((((.((...(((...((((((...))))))))).)).))).))).)))).......... (-31.90)
+>SeqCat01|153
+UCGGCCUGUCGAGAACCUUCGACGAACACACCGAGAAUGAUCUUAAUGUGAUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGAUGUGAUUGGUUAUAGAUGAGAGCCUUUCAAGACGGCCGGGCACGAACACAAGAGUCUGUUAGGAGGCGCAACCUGGGCGCCUGCUGAGGGCUUG
+(((((((((((((....)))))))..((((..((((....))))..))))((.(((((.((.(((((((....)))))).).))))))).)).(((..((((.........))))..)))....))))))............((((((.((((.((((((.......)))))).)))))))))). (-63.50)
+>SeqCat02|154
+CAGAUAUGUCAAUGAGCCUAUCUCUCUCACGUUAUCUUUCCUAAGGAAUGAUCGCAGACCUCACGCAUUAAUCAGACACCACAGAUGAGCGGAAUGCCUGUUUUCUGAGUUCCCGUAGUGGGUACACACAGUUUGUGCUAGUACGGCUCU
+.............(((((............((.(((.((((...)))).))).))...((.((((......(((((..........((((((.....))))))))))).....))).).))((((.((((...))))...))))))))). (-31.40)
+>SeqCat02|155
+AGGCCUAUACGCGAUGCACGAAAAUCCUGCAUGACGGCGAUUGCCUAGGGAGACUCCGGACUGUCAGUUUCGGCUGCCGCUUAGUUUCCGGUAUACGAGUAACUGUGCGUCAGGAUCUAAGAACGACUUUUGGGUGUAAACGAGAGUUCA
+((((.....((..(((((.((...)).)))))..))......))))....(((.(((.(((.((((((((((..(((((.........)))))..)))..))))).))))).))))))......((((((((........)))))))).. (-42.50)
+>SeqCat01|156
+ACGUAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGUUUUGGGUGGGCGCUCUGAUAGAGAUCUGAGAGGUGACACCAGCUUGUCUCUGAUUGGUUAUAGAUGAGAGCCUUUCACAGAAUAGGGGAUUCGCGGCAAGACAUUGAUCAGGGUGAGUCGUAACUAACCCCCGUGUGUGAGC
+.....(((((.((.(((((((....)))))).).))))))).....(((.((.(((((((((.((..(((..(..((((..((..((..(((.(((..((((.........))))..))).)))..)).))..))))..).)))..)).)))))))))(((....)))..))))).......... (-49.00)
+>SeqCat02|157
+AGUGCCCGCUGAAUAAACUUGGGUACAGGUACCCAUAUCAGCGACGUGUGGCGUAUCGCCCCAUAGUUUGCAUGACCGUAAUAUGGAUUGAGACACUACUAGAAGAUCCUCAUGUCUAUUAUCGCAAUUUUUUCUCACGUCAGGGGCACU
+((((((((((((.((....((((((....)))))))))))))((((((.((((...))))..(((((..((((((.........(((((...............)))))))))))..))))).............))))))..))))))) (-44.10)
+>SeqCat01|158
+GGGGAUGCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUAAAAAACUGAUCGCGAUCGAACAGAAAGUUUGGGGGCGCAUCCGUACAUGAUUGGUUAUAGAUGAGAGCCUUUCAGACCCGACCUUAACUAUAUAGAGUCAUCCUGGCGGCGUGCGUCCUGUCACAUUACCCUAAAAGUG
+(((((((.((((((((..((((((....)))))))))).....(((((...(((.(((....))).)))....)))))((((((((((((..((((((...(((((.((((..(...........)..)))).)))))...))))))....)))).)))))))))))).)))).)))........ (-51.70)
+>SeqCat01|159
+CCAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCCUCUUUCCAACAGGAUGGAAGGCUAUGACCCGCGCUUACUUCGGACCUACGAUGAUUGGUUAUAGAUGAGAGCCUUUCAGCGAGAUUGAAAUAGGCACCCCGUGAUCCGUCCCCUGUUGUCAUAUGCGGUCUCGGACAUAGCCA
+...(((((.((.(((((((....)))))).).)))))))...(((.(((....))).))).(((((((......(((((.(((((..((.((.(((..((((.........))))..))).)))).))))).)))))...(((.((.((((....((....))...)))))).))).))))))). (-51.50)
+>SeqCat01|160
+CUGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACGAGGGCGCACCUAGAAAGUCGCACAGUCCAAGUACGGAUAGCGGGAGCGGAGUGAUUGGUUAUAGAUGAGAGCCUUUCAUGGAAGACUCAAGUUACAACGAUAGGACCUAAGGCGCCUUGACGUUUUCUGCAUAUGCAAAGCAU
+...(((((.((.(((((((....)))))).).)))))))...(((((((.(.(((...........((((..((.((..((((..((((...((((..((((.........))))..))))....).)))..))))...)))).))))))).))))))))...((((..(((....))))))).. (-46.30)
+>SeqCat02|161
+CAAGUCCGCCGCAGCGCACAAAAGAAUAGAUGGCCCAUAAGACCAUAUGGAUAUAUCGGCUGUGCAUCCAGUUAGUAAAGCGACUAUACCAAUCGCUACCGCUUAAUGUGGUAACUUUGGGGCGUCCUUUUAUUUAUGGAGGUUGAUCUU
+...(((.(((.....(((((...(....((((..(((((......)))))...))))..)))))).((((...(((((((.(((....((((..(.((((((.....)))))).).))))...))).)))))))..))))))).)))... (-37.50)
+>SeqCat02|162
+UCUUCAUUUGAUGAUCAUUCCGUCUAGGGAUGUUAUACAUCCUCAGACGUGUUCUCGAUGAGCAUGUCUAAGGCUGUGGCAUUGUCACCAUGUCACAUACCUUACAGACCCGCUUAGUAAAAUCAACAUAAAGAUGGAUCAGUAGCAAUU
+...........(((((..(((((((.(((((((...))))))).)))))((.......(((((..((((((((.((((((((.......))))))))..))))..))))..))))).......)).......))..)))))......... (-41.00)
+>SeqCat01|163
+ACAUCAUCUGAAUCAAUACCUGUCUUGCAUACGUUAUAUGGAUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCCAAAUCGCACUCUGAUUGGUUAUAGAUGAGAGCCUUUCAUGGAAACCUUAAGAUUGGGUAGUGUGCGUCACCCAAUUGUGACAAACACCGGAUCCUUGCCGCUU
+...((((((((((((((....((.........((.((.(((..(((((.((.(((((((....)))))).).))))))).))).)).))))....))))))).)))))))((((....((.(((.((((.......)))).((((..(((((......)))))..))))....))).))..)))) (-42.50)
+>SeqCat02|164
+UGAGCGGUCUUGGGGGAAGUGGCGUGAGGCGGGUGGUAGAGCAAGCCCUACCCGUGAAGACCCCUCCGCGACCCUAUGGUCAUACAUAGGCAUUAGAUUACACGUUAAAGCGUGCCAUUCAGAUAUGUUGCGGGUGCGCGCGAGGUCAAC
+.....((((((.((((.((.(((.((..((.....))....)).))))).))).).))))))((((((((((((((((......))))(((((..((...(((((....)))))....))....)))))..)))).)))).))))..... (-49.60)
+>SeqCat01|165
+GGCGUUACGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCGGUCUGCCAUUCCUCGAAAGUCUGUUCUACGUAACCCACGACAGUCGGUGAUUGGUUAUAGAUGAGAGCCUUUCAGGCCAGGUCAGCCUGAUCAAAUGACGCGUCCCUCUGCCAGAGCGCCCCGUAUGGGGGCCGCCUAA
+((((....(((((...((((..((((.........((((((.....))))))........((((((((..(((..(((((((((........)))...)))))))))..)))..)))))((((.......))))))))..)))).)))))....))))((.(((((((.....)))).))))).. (-60.20)
+>SeqCat02|166
+AAUAAUACAUGCGAAGCAAUGAUAGACGUGAUAUGCACCCAAGGAAUCUCACAAAUAUAUACGAAGGGACAUUCGCCAGAUAGCGUUAUAAUCUACAGGUAAUAUCGGAAUUGUUGUAAUUGGCUUAGUUGACUUAAGUCAACAGUGAGU
+..........((.((((((((((.....((((((..(((...(((.....((...(((...((((......))))....)))..)).....)))...))).))))))..))))))))..)).))...((((((....))))))....... (-23.90)
+>SeqCat01|167
+AGCGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUCAGGCCCCAACAUGGGCCGCUCAAGGGACCGGUAUUUUACUAGGCCCUUUGUGAUUGGUUAUAGAUGAGAGCCUUUCAAGAUCACAGCAUAACGCGGCAUCAAAGAGGUCCCCUUCUCGGGCGAAAGGUUUUGGGAAUACCUU
+.(.((((((.((.(((((((....)))))).).)))))))).).(((((......))))).(.((((((.((((((...)))).)).)))))).)...(((......(.((((((((((..(((..(.((.....)))..)))......((((.......)))))))))))))).)....))).. (-52.40)
+>SeqCat01|168
+GCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCAAGACCACCUCCUGUCUACAAGUGAGCCCGGUCCUCAGGACUGAACGUGCGAUGGUGAUUGGUUAUAGAUGAGAGCCUUUCAUAGUGAGGCGUAUCACAACACCGUUAUGGUGGAUUGCAAUAUAAUAAGACCAGGCUCAACUACUC
+..(((((.((.(((((((....)))))).).))))))).((((........))))...((((((((((((((...))))))....((((((.((((..((((.........))))..)))).((((......))))..((((.....)))).))))))..............))))).))).... (-50.60)
+>SeqCat02|169
+AUAGGGCCCUGCUUAAAACGUAUUUUAACCGGUUGAGAGAACGGUACGCAGAGGCGUGGUACGAGGCGUCGUUACACCUACGUGGUUUCUGACACGUGGUGGAACUUGCGUAGAAGUUAAAACCUUUCAAUUUGCUUAGAUUCUCUGUGA
+((((((.................((((((.((((((((((((..(((((((.(((((........)))))((..((((.(((((........)))))))))..)))))))))...))).....))))))))).).)))))..)))))).. (-39.20)
+>SeqCat02|170
+GCUGGUAUUUGAAUAUAGCCGAGGAUAUUCCACACCUAUCCGUAUAAUGUUUAGCAGGCAUCACCGGGAUAUUAAGCGGUUAUUAUGCAUAGUGAAGCCCGACAAACAGCCCAGAACAAGCCGAGACAUGUCACAUGCGUGGCAUAACGA
+.((((...(((........)))(((((.........)))))......(((((..(.(((.((((..(.(((.(((....))).))).)...)))).))).)..)))))..)))).....((((.(.((((...))))).))))....... (-31.60)
+>SeqCat01|171
+UCUUCACUUCCUCCGGAGACUCCUGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUCUGGAGGAUCGCAUGACACUACCAUCCACCCUGAUUGGUUAUAGAUGAGAGCCUUUCACUAAUCUUGUACUGCAUUGUGAAGACGUGAUAAGCGCAACAUCGGGGGAGCUGGACUAUACGGGU
+........((((((((((......(((((.((.(((((((....)))))).).))))))))))))))))).............(((.(..(((((((..(((..........(((((((((...((((.(((......))))))).)))).))).))))))))))))..).)))........... (-50.80)
+>SeqCat02|172
+GACCCCUAGGAGUAGCUACUGGUACGUAUAAUUGCCCAUGGACGUACCUUUUUGAGCACAUAAGCACCAACAGACGAGACUUCACGGAGGAGAUCAACGCUCAGGGGCAUGUAGUUGCGAUCCGUCUGGCUGGUCGAAGGAGGCGAAGAG
+(.(((((..((.((((((.(((..((((((..(((((.(((.(((..........((......))............((((((.....)))).)).))).))).)))))..))..))))..)))..)))))).))..))).)))...... (-39.70)
+>SeqCat02|173
+UCAGAUGUCCUCGACAAAACCGCGGCGUAUACCGCUCAUUAUGAUUAAAACAUAAGUGUAAAGGGAUCUCACUUCCUUGGUAACUAUCGACUCUGAGUUCCAUCCCUGGUAUUCGAUACAGGCGCAGACCGCUCGGGCUCGAGUGCUAGA
+(((((.(((............((((......))))....((((.......))))(((...((((((......))))))....)))...)))))))).........(((((((((((..(.((((.....))))..)..))))))))))). (-40.50)
+>SeqCat01|174
+UCCAUGGAUUUUCAUCAGUUUCUUAGCAUGAUCAUGUUUGUAGCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCUGGCAACAGCUAUGAUUGGUUAUAGAUGAGAGCCUUUCAUAAGUCAAGUCACUAAUAGGGUCGUUACGAUCUCGAAGUUUGACACUCCUCAGACAUACAGAAGU
+.....((.((((((((.......((((..(((((((.((((.(((((((.((.(((((((....)))))).).)))))))...)).)))).))))))).))))..))))))))))........(((((...(((....(((((.....)))))...))))))))..................... (-39.90)
+>SeqCat01|175
+GCGUCGACGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUACAUUUGCAUCCUCACUAUGAUCCAUUCUACUGUUCGCCACCUUUUCCUGAUUGGUUAUAGAUGAGAGCCUUUCAAACUUGGAAGUUGCGUAGCACACUCUUAUUGUGGGAGCUCGACCUACGCUCUGCCUUUGUAAGAG
+(((.(((((((((.((.(((((((....)))))).).))))))).......((...((((((((((.(((.((.....................)).))))))))).)))).)).(((((....))))))))))))......(((((((...((.((..((.....))..)).))...))))))) (-44.00)
+>SeqCat01|176
+GCAAAGAUCAAAGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCAAUCACUUCUAGCAUAUACAAGCAGGCCUCAUCGGGAGAAAAUGAUUGGUUAUAGAUGAGAGCCUUUCACACACACCAUCCAAGGCUACUCCGACCAGGUGGGCGUAGACUCGGGGAUGGCGCAGGGCUUGCUU
+((.(((......((((((.((.(((((((....)))))).).))))))))......)))...))......((((((((((..((....))...(((..((((.........))))..)))....(.((((((..((((((.((.((...)).)).)))).).)..)))))).)..)))))))))) (-54.90)
+>SeqCat01|177
+GACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCGCAAGAGAAUGACUUGACCUUCUGCAAGGCGAUACCGCACGUCAGCCAUUUAUAUGCUGAUUGGUUAUAGAUGAGAGCCUUUCACAUAAAAAUACCUGAACGUGUCAGGUACCACGCCUGGCCCGUUUAGAGACCAAUUAUCACCAAGU
+(((((.((.(((((((....)))))).).)))))))(((...(((((.((.(((....(((..((.....))))).))))).)))))...)))(((((((((.((..(((((...)))))..)).......(((((((.(((((((.....))))))).))))))).)))))))))......... (-49.50)
+>SeqCat02|178
+UUCAGUCUAAAUCCCUGCGAAAUGUAAUCGAUAUGCAACUAAAAAGGAUGAUGUAUUCCAGCAUCGGUUAUCCCUUGAAGGCCAGACGGGCGUGGGGCCUUCCUACUUCCGACGACGGCAACAGGUACUAUAGGGCCAGGAAGCUUGUAA
+.............(((.(((...((((((((..(((.........(((........))).)))))))))))...))).)))....((((((....(((((((((....(((....)))....)))......)))))).....)))))).. (-33.50)
+>SeqCat02|179
+GCAUCAGUGGCAUACAACCCACUGGGCGGAUAGGACCCAAGACAUGAGGUCAAACCUUGAGCUUACUCAACUGCCAGCCGAACAGUGUCAACAGUUCGUGCGUAUCAUGAUCGUCAUAGGUGUGUCCUAAAGUCAGACAACCAAACACGA
+....((((((........))))))(((((....((((((.....)).)))).....(((((....)))))))))).(((((((.((....)).))))).)).........((((....(((.((((.........)))))))....)))) (-40.40)
+>SeqCat02|180
+GGCGAACACGGAAUGCGGUGAUGUUUAAUGACCCAGCAAUUAAUUCAAUUUUCGUAAGGUCCGUUCGCCUUCGAUCAGUUAAAAGGACUGGUGUAUUCUUAAACGAGUAACCGAAGUGUUGAGCACGUUGUUCGUUUCGCGGCUUUCUUA
+(((((..(((((.(((((.(((..(((((.........)))))....))).)))))...))))))))))....(((((((.....)))))))........(((((((((((....((((...)))))))))))))))............. (-35.70)
+>SeqCat02|181
+GGAUAACCAGGUGCGAGUUGAUUAUCACCGUUUUGCAGGACUAUGUGCGGGCGAAUAUAAACUGAUUGUUCAUACCGUACUCUGGCCGGGUCGCCAACUUACCUGACACCUAAGAUCGAUUCAGGGCGGCGCAGUGGAUCUUCUGAGACA
+.......(((((..((((((.....(.(((....((.(((....((((((..(((((.........)))))...))))))))).))))))....)))))))))))....((.(((..((((((..((...))..)))))).))).))... (-38.10)
+>SeqCat02|182
+CGAUACCUAGCAGCCACAUCGUGAGGUGUUGACGGUGAAUGUCAUGACACGACGAAAGGCCCCACUGUUAACUUACCGCAUUGCGGCACCUGGGAUACUUUAUUCGCGACGCGUUGUGUGAGGCUGCUCUAUUCUGCCGGUAUUCUGGAG
+.((((...((((((((((((....)))))(((((.....)))))(.((((((((....((((((.((........((((...))))))..))))...........))....)))))))).)))))))).))))...((((....)))).. (-42.90)
+>SeqCat02|183
+AAUCAAAUACAUCAAUUUGUUGCCUGCGGACUACGUACGGCCCGCGUCAGCAUGCCCCUCAACCGAUGGCCCCUGAUCGUCAGGUCUCGCGGCGCCCCCUUUGGGGCCGUAUGCGUGCUGCCACAAACUCAUCACUCUCAGGUCAGCAGA
+...............((((((((((((((.((......)).))))(.((((((((((.((....)).))..(((((...)))))....(((((.(((.....))))))))..)))))))).).................))).))))))) (-46.00)
+>SeqCat02|184
+GGUCAUGGCAUCCCUUCGAGCAAGGCAGACGGUAUUGUCGUGAGUCAGUUGUUACAUUGUGUUUGACUGCGCAGGGCCUUGGGCCAACGUAUCCAGCGCCGCGCAAGUAGUGUAUAGGCCACGGCGUAGUUCAACUAGGCCGUGCGGGAA
+((((((((((..((.((..((...)).)).))...)))))))).)).(((..((((((.......(((((((..(((.(((((........))))).))))))).)))))))))..)))((((((.((((...)))).))))))...... (-50.10)
+>SeqCat01|185
+AGACCCGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUCUACCAUUUAAGUCAACAGGGAAAAGUUUAAGCUUACACCAAUCCAUACCUGAUUGGUUAUAGAUGAGAGCCUUUCAAACAAUAGGACUUGUGGUCUUGUGAGUUCCUACUGCGGUUUGAAUUCUCCCGCGAGAACUUAAGU
+......(((((.((.(((((((....)))))).).)))))))......(((((((((....((((.((((....))))..(((((((.......)))))))......(((((...)))))....((((((((...))))))))((((((..((....))..))))))))))....).)))))))) (-45.30)
+>SeqCat01|186
+AGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCUUGGAUGCAGCGGGCCUGCUUGGUGUUGAAAUUCUUGCACACGUCCCAGAGGAUGGUGAUUGGUUAUAGAUGAGAGCCUUUCACGGGAAGAGGUCACCCGCCAUGCACUUGCACGAUGAUUAUUACCGCACACGCCGUUUGCCUUCAC
+((((((.((.(((((((....)))))).).))))))))((((.((((..(((.((..(((((.(((...((.((((..(((((....)))))((((..((((.........))))..))))(((.........)))((...))...)))).))...))).)))))..)).)))..)))).)))). (-53.10)
+>SeqCat01|187
+CGACACCCAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCCAACUUAAUCGUAUAUAUGCGAAACCCCGAAAGGUCUUGGGCACUUUGAUUGGUUAUAGAUGAGAGCCUUUCACACUAUUUGCCGCCAAGAGACCCACAGCGUAGACGCAGGGCUGCAACUCAACGCAGGGGCGUUGC
+((((.(((..(((((.((.(((((((....)))))).).))))))).........(((((....)))))...(((((......)))))..((((...((((.((((.(((((...)))))..))))..))))...)))).(((...(((....))).)))((((........))))))).)))). (-50.40)
+>SeqCat02|188
+AAGGGAUUAAUACCCGUGGUCGAGUGGCGCGGCCCCACAUUAGCCGGACGGCUUACUGAUCAGCGUACAUCUAUUACCCGACCAGAUCGCUACGCUCGAAUGCUCCCCCUAGCUUCACUUCGCGUAAAGGUGUAUACACCUCUCGAGGCC
+..(((.......)))..((((((((.(..((((.........))))..).))))...))))(((((((((((...........)))).).)))))).(((.(((......)))))).(((((.(...(((((....)))))).))))).. (-38.40)
+>SeqCat01|189
+UCCACGGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCACUUCCGAGGGUAUCAAGUGGAAGCAGCAGCUGGCCUGGACCCGAGCAAACUGAUUGGUUAUAGAUGAGAGCCUUUCAAGGUCAAACGAGGAGCUUAGCUUGGCUUGUACUAAUCAGAAAAAAACGCAACAUGAAACCCAUCA
+......(((((.((.(((((((....)))))).).)))))))......((((((.(((.((((.(((....)))..))((........))..(((((((((.........(((((...((((.((.......)).))).)...)))))..)))))))))...........)).))).)))).)). (-42.90)
+>SeqCat01|190
+UUAAGACGUACUUCAUAGGAUCAUUUCUAUAGUAGACGUCCACGCGACGAAAUGUGCGCGGGGGUUUCACAUGUACAUAAACUAUAUCAAGUUUGAUUGGUUAUAGAUGAGAGCCUUUCAAUCAUUCAUAGGGCCUUUCGCGCAGUAAGCGUACCUUGGGAAUCUUACUUUACUCCGUCGACACU
+....(((((.((.(((((((....)))))).).)))))))....(((((......((((((((((((((..((((.....((((.((((....))))))))))))..)))))(((((............))))))))))))))((((((.((.((...)).))))))))......)))))..... (-44.70)
+>SeqCat02|191
+UACUCUCCCCUUCUUCAUAUCAAUAACAUAGGACGUUAGCGGAGAGGGAGAUACAAGUGGUCGGCACCCCCUCUAGUAUCCUGCUGAAGUAACCGCGGGGCGGCGUCGUCCAGACUUCGCGCAAACGGCACAAUGCCCCUCCACCAUGAC
+..((((((.((.(.((.(((.......))).)).)..)).))))))((((((((.((.((..((...)))).)).))))(((((.(......).)))))((((.(((.....))).))))......((((...)))).))))........ (-39.90)
+>SeqCat02|192
+CAAAUCUGAGAAAAGAAGCGCGUCAACUCCACUAUCCGAGUGCCACAUUCAAGAUUGCCUCAAAAACCGCUACCAGCCGUACGGUACGCCCGAUAGAGCGCACUGAUGCCCCCGCCCCAGUUCCCGGGGCCUGUGAGGCCCGUCCUGACU
+....(((......))).((((.((.............)))))).....(((.(((.((((((......(((...))).(((((((.(((.(....).))).)))).)))....(((((.......)))))...))))))..))).))).. (-37.10)
+>SeqCat02|193
+CGUACCUGAAGGUGGGAAGUGGAGCCAACGCGACGUCAAAUCCGCGCUGUUGUGGUGUAGUUAAUAAGCGGUAUUUGAGGUCUAGACAAACCUUAUGGUCGAAUAUGGGCCCGCGAACGUGUGUAUGUCCAGAGGAUACCCAUUUGCUCG
+(.((((....)))).)..((((.(((.....(((.((((((((((..(((((.........))))).)))).)))))).))).......(((....)))........)))))))((.((.(((..(((((...)))))..))).)).)). (-42.80)
+>SeqCat02|194
+GCGUACCAGAAUCCGGGGACUAAGGUUUGCGGUCCCUCUCCGGGAGAGCACUUCGUACUUGGUAUGCUUUCCGAGAAUUUGGAGUGUCAGGCGUCGAUCGUUGGAAGUGGCCUUUUGAGCCUCCGGCGUGUGACCUCCGACUGUUUCCAA
+(((((((((....(((((.........(((..((((.....))))..))))))))...))))))))).....((((..((((((.((((.((((((...(((.((((.....)))).)))...)))))).))))))))))...))))... (-53.60)
+>SeqCat02|195
+CAUGUGAAAUCUCCGAUGUGGAUCUACGAGCACCGGACAUUGUUGGAUUUCGCGUGGACAACGAGCGUCCUAGCCGACGGGAUAAACGUAUUAAGUUCUCGAUGCUGCCCAGUCCAACCUUUUAGGGGUAUAUCAUGAGAAGAGCGUCGU
+((((((((((((.((((((((..((...))..))..))))))..))))))))))))....(((((((((((.......)))))............(((((((((.(((((...............)))))))))..)))))..)).)))) (-39.00)
+>SeqCat02|196
+UUAUACUUAAGGCCGAUGCAAACUCUAUUGGCAGGGAGAGUUUGUUAGCAUAUGACCCAGAAGUCAAUUUCUAGCCUGACAAAGUAGCCGGCACACGUAUAACGGACGAACGUCACGGCUGUGCUACGGAACGUAGUCUUGACUGUUCUA
+.....(((...(((((((.......)))))))...))).(((.(((((....((((......))))....)))))..)))...(((((((((...(((...(((......))).))))))).)))))(((((..(((....)))))))). (-37.40)
+>SeqCat02|197
+UUCUUUAGACUGCGUCCUGGAAUUACCGACCCGUGAAUUGUAAGCAGAUGAACUAAAGUUACCCUUGGUUGGCCCACACGUCGCGGCUGAAUUGGUUAGACCCCAUAAUAAAUAUAAUGUUAAGCAUGGUGUAAGACGACCGUUUACUGU
+.....(((((.(((((.(((....(((((.((((((..(((..((.....((((((........)))))).))..)))..)))))).....)))))......)))......((((.((((...)))).))))..)))).).))))).... (-25.50)
+>SeqCat02|198
+ACGGGUUUCGCGGGCAUAAUAAACCGUGAUUGCCGCGUUUGCGGCCCGACUGUUAGUGUGAUUAUGGAAAUAGCAUUGGGGCGGCACGGGAGGACUCUAGUGAGAGACCGGGUGCUAUUUGCCUCCGUUUCAUGAUAAGCAAAUAUGUUG
+.......((((((..........))))))..(((((....))))).((((((((.((...(((((((((.......(((((((((((....((.((((....)))).))..)))))....))).))))))))))))..)).)))).)))) (-47.30)
+>SeqCat02|199
+GGCGUUAGAACAUCGACACAUAUUACGGGACCGCUGAGGACGAGAUGUCCUACCUAGCUGCCCAACAUUUAGAUUAUAUACCUACUUCGGCGAUUAUUCCCCUUUCGGCUAAAUACGUGUUAAUCAUUUGUGCACUGUGGCUGAAAGCAC
+.(.(((........))).).......(((.(.(((((((((.....)))))...)))).)))).........................((.((....))))((((((((((.....((((...........))))..))))))))))... (-31.60)
